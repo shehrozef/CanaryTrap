@@ -1,0 +1,1026 @@
+Return-Path: <bounces+7940161-5982-reynon-mysinger=vandustech.com@mkt.playkids.com>
+X-Original-To: mailarchiveuser@localhost
+Delivered-To: mailarchiveuser@localhost
+Received: from o136.mkt.playkids.com (o136.mkt.playkids.com [168.245.100.2])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-GCM-SHA256 (128/128 bits))
+	(No client certificate requested)
+	by vandustech.com (Postfix) with ESMTPS id 4C07E4E48F
+	for <reynon-mysinger@vandustech.com>; Mon, 16 Dec 2019 11:10:19 +0000 (UTC)
+Authentication-Results: vandustech.com;
+	dkim=pass (1024-bit key; unprotected) header.d=playkids.com header.i=@playkids.com header.b="du/Sbgpa";
+	dkim-atps=neutral
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=playkids.com; 
+	h=content-type:from:mime-version:reply-to:to:subject:list-unsubscribe; 
+	s=s1; bh=MtFGQPAyyNcATGF6FNZYNW9CA4DTzk3RaAhTZFkEB0c=; b=du/Sbgp
+	aIRsBXV0DxQvrJBMOPIMEbKL9og5nnPAuXw42vTHH7xpX1jkKvvpv7V5mzZPIPvH
+	Oo8HIvYZFGLdt8h8LM0JucmQiXAZsbsebbVCIwED51BSEeHalbW+dWq+DT2ey5Ga
+	goxU6WjLp5hMPfy5YBsPdJ1Y7jMr5WhnpIoM=
+Received: by filter2090p1mdw1.sendgrid.net with SMTP id filter2090p1mdw1-20941-5DF7660D-5
+        2019-12-16 11:10:05.208342853 +0000 UTC m=+1003734.478246045
+Received: from Nzk0MDE2MQ (ec2-34-200-140-232.compute-1.amazonaws.com [34.200.140.232])
+	by ismtpd0062p1iad1.sendgrid.net (SG) with HTTP id nk-ZwWfcTzaXOVhE0nWN3A
+	Mon, 16 Dec 2019 11:10:05.070 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=d194781191f46484577c3a0d40295872676363ef57fbb7e2277fe32bbe70
+Date: Mon, 16 Dec 2019 11:10:17 +0000 (UTC)
+From: "PlayKids Explorer" <novidades@mkt.playkids.com>
+Mime-Version: 1.0
+Reply-to: novidades@mkt.playkids.com
+To: Shikamaru Peter <reynon-mysinger@vandustech.com>
+Message-ID: <nk-ZwWfcTzaXOVhE0nWN3A@ismtpd0062p1iad1.sendgrid.net>
+Subject: =?UTF-8?B?RXN0ZSBtw6pzLCB1bSBub3ZvIFBsYXlLaWRzIEV4cGxvcmVyIGVzdGFyw6EgbmEgc3VhIGNhc2Eh?=
+List-Unsubscribe: <mailto:unsubscribe@mkt.playkids.com?subject=http://link.playkids.com/wf/unsubscribe*q*upn=2eLxXtejjaJJHEfi0Fuzl908VwGNRyG7JfrFQvpoLOXitM-2BgT3Cp-2F39X918CCtn0sJbPP9uo6iq1gDw8Fo6S9TW0wq2JE8hCN7FSN3gsft2vHUG5Y9a-2BGho3o6PVMocW2dmmgAcpJRH2zvfxAvCit196-2B6ZyNazywg5GXBoodwMubURDy68mTKpBftoxqauuDCm5ysJ9eeytm5BsTvVYZDumPm-2FzDXn6lYbNFTd0d-2BfOHZwcQ69gkVrdhxkGL3u68ABNiTDzgGMEhGlCzxP69NvWNfrgJreo6tv25sX57Z06p8DVrby-2Fc5HE3Z-2B9FwvqqdtEBUvR5WfWZjv2j5RLgSqxmrckUeX6NBuyctWKXLRZ3vAhYbHZVqJSeBJZbGajEkuT6eL93VxLUI-2BUCc-2F34DNxp25m4XOIWF6CJjYEoPqvzzeGdqu7qT4EECL6-2BCIC95Cb49wn20mrs9FKX-2BOPCs0c20ji-2BzGqKMdk8zWtUhejobJO9aIWViof-2FxXapP7KznEar-2Bo2VapqM6XivQd1uyBNH9kM3pcZ4WEurE-2F21hP-2BmySEDh8i-2BByPlM8u4ObMkmsw-2BUs6245dkDUqTcOTzxHNkOhJcAl3e1cIpteQ8x-2BrI06WOYSVKed-2FfJvPIUasTNvB2uvzCnXJzDuX1q747zsRgNvrvww4rKxcgbarS2U-3D>
+X-SG-EID: ViB2JCkYeCUl1N5aO69WwzdhYxO+if9jWKURFl6KmQhttsvgOIPRdE2Ipie4abgvYn1CKDQpumYfyf
+ z+fjqwyolatABm21qm3a2xiKRpSna3PTkTVQ8asZj98hdbY+eRl0T8n5qdFsE3GdgPneIfPv7j6HgN
+ pM9Rg5nw3+vVgwjpDAhHltE1fLzWoybYlctxmtv9M76jAVg+NNm84JCxI7zJdGnUedeu61FudIDaVV
+ OqSqRwRRIMTWl4ai2pn79i
+X-SG-ID: rfGQEYwm3uCO/OWsLrh1ju+snlYGwGSe7mG93xfTFzPE3dJ9NX0dp7aJLF7oO4Hp+YaU0FFZ61Ghq9
+ Hc5DZsM1Vqf99zrsRYdZI3TnmOA88MJW87SmdkSM4HmdGl1qbdOcLEyZenow811SYrW1Aie7ST8ZPk
+ I4Zfultib3T1DjtWD96G2YHA+XYiP0aWHPgijkVds+iZsxgb8rFHCioQM5N+pFVFFbw++FSa6d2x/9
+ mH/JJXCXWW60ZQ5IKthME0KH6q4wOwf7SGf57Y0PUhY0L2fHYbmTrwbPyRNLFCl+TQif+uFosVIXD1
+ LnYv5f3NJY6b/+UMPhPSzk37AAZJRmiXnk+rugTJE2j3RvuX9JmIkzVjg3Brhj9vCGNHXdu6pmy0QQ
+ AhMAZFDWYZWqvSJo9VgH7I9oHXOMNpd6SMmvBNQGHkNywrxGzYJSjpqdpWfZxflGxDz/g1g22KErHF
+ og==
+
+--d194781191f46484577c3a0d40295872676363ef57fbb7e2277fe32bbe70
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+=09
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		table,
+		td,
+		tr {
+			vertical-align: top;
+			border-collapse: collapse;
+		}
+
+		* {
+			line-height: inherit;
+		}
+
+		a[x-apple-data-detectors=3Dtrue] {
+			color: inherit !important;
+			text-decoration: none !important;
+		}
+=09
+=09
+		@media (max-width: 620px) {
+
+			.block-grid,
+			.col {
+				min-width: 320px !important;
+				max-width: 100% !important;
+				display: block !important;
+			}
+
+			.block-grid {
+				width: 100% !important;
+			}
+
+			.col {
+				width: 100% !important;
+			}
+
+			.col>div {
+				margin: 0 auto;
+			}
+
+			img.fullwidth,
+			img.fullwidthOnMobile {
+				max-width: 100% !important;
+			}
+
+			.no-stack .col {
+				min-width: 0 !important;
+				display: table-cell !important;
+			}
+
+			.no-stack.two-up .col {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important;
+			}
+
+			.no-stack .col.num8 {
+				width: 66% !important;
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important;
+			}
+
+			.no-stack .col.num3 {
+				width: 25% !important;
+			}
+
+			.no-stack .col.num6 {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num9 {
+				width: 75% !important;
+			}
+
+			.video-block {
+				max-width: none !important;
+			}
+
+			.mobile_hide {
+				min-height: 0px;
+				max-height: 0px;
+				max-width: 0px;
+				display: none;
+				overflow: hidden;
+				font-size: 0px;
+			}
+
+			.desktop_hide {
+				display: block !important;
+				max-height: none !important;
+			}
+		}
+=09
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+=20
+
+
+
+=20
+
+
+
+
+=20
+
+
+=20
+
+
+Shikamaru,
+
+
+
+=20
+
+
+
+Pensando em oferecer uma experi=C3=AAncia ainda mais incr=C3=ADvel para sua=
+ fam=C3=ADlia, ouvimos suas sugest=C3=B5es e adaptamos o nosso produto.=20
+
+
+
+=20
+
+
+
+=20
+
+
+
+
+=20
+
+
+
+=20
+=20
+
+
+
+Nesse novo formato, o desenvolvimento socioemocional =C3=A9 elemento fundam=
+ental das hist=C3=B3rias, estimulando a autonomia e a autoconfian=C3=A7a do=
+ seu pequeno.
+
+
+=20
+
+
+=20
+
+
+
+
+=20
+
+
+
+=20
+
+
+
+=20
+
+
+
+
+=20
+
+
+
+
+=C2=A0
+
+=C2=A0
+
+
+=C2=A0
+=20
+=C2=A0
+
+
+=C2=A0
+=20
+=C2=A0
+
+
+=C2=A0
+=20
+=C2=A0
+
+
+=C2=A0
+
+=C2=A0
+
+
+
+
+=20
+
+
+
+
+=20
+
+
+
+=20
+
+
+
+=20
+
+
+
+
+=20
+
+
+=20
+
+
+Precisa de ajuda?
+Visite explorer.playkids.com ou envie um e-mail para suporte@explorer.com
+Caso n=C3=A3o queira receber mais nossos e-mails, clique aqui=C2=A0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+=20
+
+
+
+
+
+
+
+
+
+Caso queira cancelar nossos e-mails, <% clique aqui. %>
+
+--d194781191f46484577c3a0d40295872676363ef57fbb7e2277fe32bbe70
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=UTF-8
+Mime-Version: 1.0
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://www=
+.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns:v=3D"urn:schemas-microso=
+ft-com:vml" xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+
+<head>
+	<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPe=
+rInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+	<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+	<meta name=3D"viewport" content=3D"width=3Ddevice-width">
+	<!--[if !mso]><!-->
+	<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+	<!--<![endif]-->
+	<title></title>
+	<!--[if !mso]><!-->
+	<!--<![endif]-->
+	<style type=3D"text/css">
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		table,
+		td,
+		tr {
+			vertical-align: top;
+			border-collapse: collapse;
+		}
+
+		* {
+			line-height: inherit;
+		}
+
+		a[x-apple-data-detectors=3Dtrue] {
+			color: inherit !important;
+			text-decoration: none !important;
+		}
+	</style>
+	<style type=3D"text/css" id=3D"media-query">
+		@media (max-width: 620px) {
+
+			.block-grid,
+			.col {
+				min-width: 320px !important;
+				max-width: 100% !important;
+				display: block !important;
+			}
+
+			.block-grid {
+				width: 100% !important;
+			}
+
+			.col {
+				width: 100% !important;
+			}
+
+			.col>div {
+				margin: 0 auto;
+			}
+
+			img.fullwidth,
+			img.fullwidthOnMobile {
+				max-width: 100% !important;
+			}
+
+			.no-stack .col {
+				min-width: 0 !important;
+				display: table-cell !important;
+			}
+
+			.no-stack.two-up .col {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important;
+			}
+
+			.no-stack .col.num8 {
+				width: 66% !important;
+			}
+
+			.no-stack .col.num4 {
+				width: 33% !important;
+			}
+
+			.no-stack .col.num3 {
+				width: 25% !important;
+			}
+
+			.no-stack .col.num6 {
+				width: 50% !important;
+			}
+
+			.no-stack .col.num9 {
+				width: 75% !important;
+			}
+
+			.video-block {
+				max-width: none !important;
+			}
+
+			.mobile_hide {
+				min-height: 0px;
+				max-height: 0px;
+				max-width: 0px;
+				display: none;
+				overflow: hidden;
+				font-size: 0px;
+			}
+
+			.desktop_hide {
+				display: block !important;
+				max-height: none !important;
+			}
+		}
+	</style>
+</head>
+
+<body class=3D"clean-body" style=3D"margin: 0; padding: 0; -webkit-text-siz=
+e-adjust: 100%; background-color: #FFFFFF;">
+<!--[if IE]><div class=3D"ie-browser"><![endif]-->
+<table class=3D"nl-container" style=3D"table-layout: fixed; vertical-align:=
+ top; min-width: 320px; margin: 0 auto; border-spacing: 0; border-collapse:=
+ collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: =
+#ffffff; width: 100%;" cellpadding=3D"0" cellspacing=3D"0" role=3D"presenta=
+tion" width=3D"100%" bgcolor=3D"#FFFFFF" valign=3D"top">
+<tbody>
+<tr style=3D"vertical-align: top;" valign=3D"top">
+<td style=3D"word-break: break-word; vertical-align: top;" valign=3D"top"><=
+!--[if (mso)|(IE)]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0=
+" border=3D"0"><tr><td align=3D"center" style=3D"background-color:#FFFFFF">=
+<![endif]-->
+<div style=3D"background-color: #f0f0f0;">
+<div class=3D"block-grid " style=3D"margin: 0 auto; min-width: 320px; max-w=
+idth: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: =
+break-word; background-color: #f0f0f0;">
+<div style=3D"border-collapse: collapse; display: table; width: 100%; backg=
+round-color: #f0f0f0;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color:#F0F0F0;">=
+<tr><td align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"width:600px"><tr class=3D"layout-full-width" style=3D"backg=
+round-color:#F0F0F0"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" =
+width=3D"600" style=3D"background-color:#F0F0F0;width:600px; border-top: 0p=
+x solid transparent; border-left: 0px solid transparent; border-bottom: 0px=
+ solid transparent; border-right: 0px solid transparent;" valign=3D"top"><t=
+able width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d style=3D"padding-right: 0px; padding-left: 0px; padding-top:0px; padding-=
+bottom:0px;"><![endif]-->
+<div class=3D"col num12" style=3D"min-width: 320px; max-width: 600px; displ=
+ay: table-cell; vertical-align: top; width: 600px;">
+<div style=3D"width: 100% !important;"><!--[if (!mso)&(!IE)]><!-->
+<div style=3D"border: 0px solid transparent; padding: 0px;"><!--<![endif]-->
+<div class=3D"img-container center fixedwidth" align=3D"center" style=3D"pa=
+dding-right: 0px; padding-left: 0px;"><!--[if mso]><table width=3D"100%" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0px=
+"><td style=3D"padding-right: 0px;padding-left: 0px;" align=3D"center"><![e=
+ndif]--><img class=3D"center fixedwidth" align=3D"center" border=3D"0" src=
+=3D"https://s3.amazonaws.com/playkids.mail-marketing/PKExplorer/novo-2.0/28=
+112019/Modelo_explorer_mudou_03.png" alt=3D"Novo PlayKids Explorer 2.0" tit=
+le=3D"Novo PlayKids Explorer 2.0" style=3D"text-decoration: none; -ms-inter=
+polation-mode: bicubic; border: 0; height: auto; width: 100%; max-width: 60=
+0px; display: block;" width=3D"600" /> <!--[if mso]></td></tr></table><![en=
+dif]--></div>
+<!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]--></div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--> <!--[if (mso)|(IE)]></td=
+></tr></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style=3D"background-color: #f0f0f0;">
+<div class=3D"block-grid " style=3D"margin: 0 auto; min-width: 320px; max-w=
+idth: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: =
+break-word; background-color: #ffffff;">
+<div style=3D"border-collapse: collapse; display: table; width: 100%; backg=
+round-color: #ffffff;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color:#F0F0F0;">=
+<tr><td align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"width:600px"><tr class=3D"layout-full-width" style=3D"backg=
+round-color:#FFFFFF"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" =
+width=3D"600" style=3D"background-color:#FFFFFF;width:600px; border-top: 0p=
+x solid transparent; border-left: 0px solid transparent; border-bottom: 0px=
+ solid transparent; border-right: 0px solid transparent;" valign=3D"top"><t=
+able width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d style=3D"padding-right: 15px; padding-left: 15px; padding-top:15px; paddi=
+ng-bottom:25px;"><![endif]-->
+<div class=3D"col num12" style=3D"min-width: 320px; max-width: 600px; displ=
+ay: table-cell; vertical-align: top; width: 600px;">
+<div style=3D"width: 100% !important;"><!--[if (!mso)&(!IE)]><!-->
+<div style=3D"border: 0px solid transparent; padding: 15px 15px 25px 15px;"=
+><!--<![endif]--> <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cell=
+spacing=3D"0" border=3D"0"><tr><td style=3D"padding-right: 0px; padding-lef=
+t: 0px; padding-top: 10px; padding-bottom: 0px; font-family: Arial, sans-se=
+rif"><![endif]-->
+<div style=3D"color: #687c7e; font-family: 'Helvetica Neue', Helvetica, Ari=
+al, sans-serif; line-height: 1.5; padding: 10px 0px 0px 0px;">
+<div style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; =
+font-size: 12px; line-height: 1.5; color: #687c7e; mso-line-height-alt: 18p=
+x;">
+<p style=3D"font-size: 12px; line-height: 1.5; text-align: center; mso-line=
+-height-alt: 18px; margin: 0;"><span style=3D"color: #7c4cff; font-size: 12=
+px;"><strong><span style=3D"font-size: 24px;">Shikamaru,</span></strong></s=
+pan></p>
+</div>
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+<div class=3D"img-container center fixedwidth" align=3D"center" style=3D"pa=
+dding-right: 10px; padding-left: 10px;"><!--[if mso]><table width=3D"100%" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0=
+px"><td style=3D"padding-right: 10px;padding-left: 10px;" align=3D"center">=
+<![endif]--><img class=3D"center fixedwidth" align=3D"center" border=3D"0" =
+src=3D"https://s3.amazonaws.com/playkids.mail-marketing/PKExplorer/novo-2.0=
+/28112019/Modelo_explorer_mudou_07.png" style=3D"text-decoration: none; -ms=
+-interpolation-mode: bicubic; border: 0; height: auto; width: 100%; max-wid=
+th: 370px; display: block;" width=3D"370" /> <!--[if mso]></td></tr></table=
+><![endif]--></div>
+<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0"><tr><td style=3D"padding-right: 10px; padding-left: 10px; padding-=
+top: 10px; padding-bottom: 10px; font-family: Arial, sans-serif"><![endif]-=
+->
+<div style=3D"color: #687c7e; font-family: 'Helvetica Neue', Helvetica, Ari=
+al, sans-serif; line-height: 1.5; padding: 10px;">
+<div style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; =
+font-size: 12px; line-height: 1.5; color: #687c7e; mso-line-height-alt: 18p=
+x;">
+<p style=3D"font-size: 14px; line-height: 1.5; text-align: center; mso-line=
+-height-alt: 21px; margin: 0;"><span style=3D"font-size: 14px; color: #525f=
+7f;"><span style=3D"font-size: 17px; mso-ansi-font-size: 18px;">Pensando em=
+ oferecer uma experi&ecirc;ncia ainda mais incr&iacute;vel para sua fam&iac=
+ute;lia, ouvimos suas sugest&otilde;es e adaptamos o nosso produto.</span> =
+</span></p>
+</div>
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+<div class=3D"img-container center fixedwidth" align=3D"center" style=3D"pa=
+dding-right: 10px; padding-left: 10px;"><!--[if mso]><table width=3D"100%" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0=
+px"><td style=3D"padding-right: 10px;padding-left: 10px;" align=3D"center">=
+<![endif]--><img class=3D"center fixedwidth" align=3D"center" border=3D"0" =
+src=3D"https://s3.amazonaws.com/playkids.mail-marketing/PKExplorer/novo-2.0=
+/CTA-VOLTAR01.png" style=3D"text-decoration: none; -ms-interpolation-mode: =
+bicubic; border: 0; height: auto; width: 100%; max-width: 285px; display: b=
+lock;" width=3D"285" /> <!--[if mso]></td></tr></table><![endif]--></div>
+<!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]--></div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--> <!--[if (mso)|(IE)]></td=
+></tr></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style=3D"background-color: #f0f0f0;">
+<div class=3D"block-grid " style=3D"margin: 0 auto; min-width: 320px; max-w=
+idth: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: =
+break-word; background-color: #7e52ff;">
+<div style=3D"border-collapse: collapse; display: table; width: 100%; backg=
+round-color: #7e52ff;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color:#F0F0F0;">=
+<tr><td align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"width:600px"><tr class=3D"layout-full-width" style=3D"backg=
+round-color:#7e52ff"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" =
+width=3D"600" style=3D"background-color:#7e52ff;width:600px; border-top: 0p=
+x solid transparent; border-left: 0px solid transparent; border-bottom: 0px=
+ solid transparent; border-right: 0px solid transparent;" valign=3D"top"><t=
+able width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d style=3D"padding-right: 0px; padding-left: 0px; padding-top:0px; padding-=
+bottom:0px;"><![endif]-->
+<div class=3D"col num12" style=3D"min-width: 320px; max-width: 600px; displ=
+ay: table-cell; vertical-align: top; width: 600px;">
+<div style=3D"width: 100% !important;"><!--[if (!mso)&(!IE)]><!-->
+<div style=3D"border: 0px solid transparent; padding: 0px;"><!--<![endif]-->
+<div class=3D"img-container center  autowidth  fullwidth" align=3D"center" =
+style=3D"padding-right: 0px; padding-left: 0px;"><!--[if mso]><table width=
+=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"lin=
+e-height:0px"><td style=3D"padding-right: 0px;padding-left: 0px;" align=3D"=
+center"><![endif]--><img class=3D"center  autowidth  fullwidth" align=3D"ce=
+nter" border=3D"0" src=3D"https://s3.amazonaws.com/playkids.mail-marketing/=
+PKExplorer/novo-2.0/28112019/Modelo_explorer_mudou_16.png" alt=3D"Apresenta=
+&ccedil;&atilde;o das telas de Limite de Tempo de Uso no Aplicativo" title=
+=3D"Apresenta&ccedil;&atilde;o das telas de Limite de Tempo de Uso no Aplic=
+ativo" style=3D"text-decoration: none; -ms-interpolation-mode: bicubic; bor=
+der: 0; height: auto; width: 100%; max-width: 600px; display: block;" width=
+=3D"600" /> <!--[if mso]></td></tr></table><![endif]--></div>
+<div class=3D"img-container center fixedwidth" align=3D"center" style=3D"pa=
+dding-right: 0px; padding-left: 0px;"><!--[if mso]><table width=3D"100%" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0px=
+"><td style=3D"padding-right: 0px;padding-left: 0px;" align=3D"center"><![e=
+ndif]--><img class=3D"center fixedwidth" align=3D"center" border=3D"0" src=
+=3D"https://s3.amazonaws.com/playkids.mail-marketing/PKExplorer/novo-2.0/28=
+112019/Modelo_explorer_mudou_18.png" alt=3D"Apresenta&ccedil;&atilde;o das =
+telas de Limite de Tempo de Uso no Aplicativo" title=3D"Apresenta&ccedil;&a=
+tilde;o das telas de Limite de Tempo de Uso no Aplicativo" style=3D"text-de=
+coration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto; w=
+idth: 100%; max-width: 240px; display: block;" width=3D"240" /> <!--[if mso=
+]></td></tr></table><![endif]--></div>
+<!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" bord=
+er=3D"0"><tr><td style=3D"padding-right: 40px; padding-left: 40px; padding-=
+top: 10px; padding-bottom: 30px; font-family: Arial, sans-serif"><![endif]-=
+->
+<div style=3D"color: #687c7e; font-family: 'Helvetica Neue', Helvetica, Ari=
+al, sans-serif; line-height: 1.5; padding: 10px 40px 30px 40px;">
+<div style=3D"font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif; =
+font-size: 12px; line-height: 1.5; color: #687c7e; mso-line-height-alt: 18p=
+x;">
+<p style=3D"font-size: 17px; line-height: 1.5; text-align: center; mso-line=
+-height-alt: 26px; mso-ansi-font-size: 18px; margin: 0;"><span style=3D"col=
+or: #ffffff; font-size: 17px; mso-ansi-font-size: 18px;">Nesse novo formato=
+, o desenvolvimento socioemocional &eacute; elemento fundamental das hist&o=
+acute;rias, estimulando a autonomia e a autoconfian&ccedil;a do seu pequeno=
+.</span></p>
+</div>
+</div>
+<!--[if mso]></td></tr></table><![endif]--> <!--[if (!mso)&(!IE)]><!--></di=
+v>
+<!--<![endif]--></div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--> <!--[if (mso)|(IE)]></td=
+></tr></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style=3D"background-color: #f0f0f0;">
+<div class=3D"block-grid " style=3D"margin: 0 auto; min-width: 320px; max-w=
+idth: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: =
+break-word; background-color: #f0f0f0;">
+<div style=3D"border-collapse: collapse; display: table; width: 100%; backg=
+round-color: #f0f0f0;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color:#F0F0F0;">=
+<tr><td align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"width:600px"><tr class=3D"layout-full-width" style=3D"backg=
+round-color:#F0F0F0"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" =
+width=3D"600" style=3D"background-color:#F0F0F0;width:600px; border-top: 0p=
+x solid transparent; border-left: 0px solid transparent; border-bottom: 0px=
+ solid transparent; border-right: 0px solid transparent;" valign=3D"top"><t=
+able width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d style=3D"padding-right: 0px; padding-left: 0px; padding-top:0px; padding-=
+bottom:0px;"><![endif]-->
+<div class=3D"col num12" style=3D"min-width: 320px; max-width: 600px; displ=
+ay: table-cell; vertical-align: top; width: 600px;">
+<div style=3D"width: 100% !important;"><!--[if (!mso)&(!IE)]><!-->
+<div style=3D"border: 0px solid transparent; padding: 0px;"><!--<![endif]-->
+<div class=3D"img-container left fixedwidth" align=3D"left" style=3D"paddin=
+g-right: 0px; padding-left: 0px;"><!--[if mso]><table width=3D"100%" cellpa=
+dding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0px"><t=
+d style=3D"padding-right: 0px;padding-left: 0px;" align=3D"left"><![endif]-=
+-><img class=3D"left fixedwidth" border=3D"0" src=3D"https://s3.amazonaws.c=
+om/playkids.mail-marketing/PKExplorer/novo-2.0/novo-pkexplorer_21.jpg" alt=
+=3D"CTA: Assine Playkids App" title=3D"CTA: Assine Playkids App" style=3D"t=
+ext-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: a=
+uto; width: 100%; max-width: 600px; display: block;" width=3D"600" /> <!--[=
+if mso]></td></tr></table><![endif]--></div>
+<!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]--></div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--> <!--[if (mso)|(IE)]></td=
+></tr></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style=3D"background-color: #f0f0f0;">
+<div class=3D"block-grid " style=3D"margin: 0 auto; min-width: 320px; max-w=
+idth: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: =
+break-word; background-color: #ffffff;">
+<div style=3D"border-collapse: collapse; display: table; width: 100%; backg=
+round-color: #ffffff;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color:#F0F0F0;">=
+<tr><td align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"width:600px"><tr class=3D"layout-full-width" style=3D"backg=
+round-color:#FFFFFF"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" =
+width=3D"600" style=3D"background-color:#FFFFFF;width:600px; border-top: 0p=
+x solid transparent; border-left: 0px solid transparent; border-bottom: 0px=
+ solid transparent; border-right: 0px solid transparent;" valign=3D"top"><t=
+able width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d style=3D"padding-right: 15px; padding-left: 15px; padding-top:0px; paddin=
+g-bottom:0px;"><![endif]-->
+<div class=3D"col num12" style=3D"min-width: 320px; max-width: 600px; displ=
+ay: table-cell; vertical-align: top; width: 600px;">
+<div style=3D"width: 100% !important;"><!--[if (!mso)&(!IE)]><!-->
+<div style=3D"border: 0px solid transparent; padding: 0px 15px 0px 15px;"><=
+!--<![endif]-->
+<div class=3D"img-container left fixedwidth" align=3D"left" style=3D"paddin=
+g-right: 10px; padding-left: 10px;"><!--[if mso]><table width=3D"100%" cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0px">=
+<td style=3D"padding-right: 10px;padding-left: 10px;" align=3D"left"><![end=
+if]-->
+<div style=3D"font-size: 1px; line-height: 10px;">&nbsp;</div>
+<img class=3D"left fixedwidth" border=3D"0" src=3D"https://s3.amazonaws.com=
+/playkids.mail-marketing/PKExplorer/novo-2.0/novo-pkexplorer_24.jpg" alt=3D=
+"CTA: Assine Playkids App" title=3D"CTA: Assine Playkids App" style=3D"text=
+-decoration: none; -ms-interpolation-mode: bicubic; border: 0; height: auto=
+; width: 100%; max-width: 313px; display: block;" width=3D"313" />
+<div style=3D"font-size: 1px; line-height: 10px;">&nbsp;</div>
+<!--[if mso]></td></tr></table><![endif]--></div>
+<div class=3D"img-container left fixedwidth" align=3D"left" style=3D"paddin=
+g-right: 10px; padding-left: 10px;"><!--[if mso]><table width=3D"100%" cell=
+padding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0px">=
+<td style=3D"padding-right: 10px;padding-left: 10px;" align=3D"left"><![end=
+if]-->
+<div style=3D"font-size: 1px; line-height: 10px;">&nbsp;</div>
+<a href=3D"http://link.playkids.com/wf/click?upn=3DFoXiGDMNwKKHrbLsowDQH-2F=
+44Br24kQNoumI-2FUqQzSBnBm6vavXIZoV9OLRiaXUbD-2BVLk594yPGlV08IJ-2FvE14uCxBsR=
+ArE0dy45-2FMyjo0bzI1dYx13MZKrU0Xh8MI1PgxxG2FDzKz5wJoMNvftoFgKJ1Oo0V6h1WTGLn=
+rUUueXJzvb9sAiGvNhM3EcC-2FCr-2F6ZUoiwaWNSWG8qg5chSrO5srmudQnVGY0idlIAyvr9m2=
+sV7W5QI-2FrCrsrbNd71XxI_2eLxXtejjaJJHEfi0Fuzl908VwGNRyG7JfrFQvpoLOXitM-2BgT=
+3Cp-2F39X918CCtn0sJbPP9uo6iq1gDw8Fo6S9TW0wq2JE8hCN7FSN3gsft2vHUG5Y9a-2BGho3=
+o6PVMocW2dmmgAcpJRH2zvfxAvCit196-2B6ZyNazywg5GXBoodwMubURDy68mTKpBftoxqauuD=
+Cm5ysJ9eeytm5BsTvVYZDumPm-2FzDXn6lYbNFTd0d-2BfOHZwcQ69gkVrdhxkGL3u68ABNiTDz=
+gGMEhGlCzxP69NvWNfrgJreo6tv25sX57Z06p8DVrby-2Fc5HE3Z-2B9FwvqqdtEBUvR5WfWZjv=
+2j5RLgSqxmrckUeX6NBuyctWKXLRZ3vAhYbHZVqJSeBJZbGajEkuT6eL93VxLUI-2BUCc-2F34D=
+Nxp25m4XOIWF6CJjYEoPqvzzeGdqu7qT4EECL6-2BCIC95Cb49wn20mrs9FKX-2BOPCs0c20ji-=
+2BzGqKMdk8zWtUhf42-2FMkzrbkp-2BMyiRdP3Mcvj69SzUO9RcOxdplw68AAQ8FZTlvyKUFS7c=
+6SU5waqz9Ttf9ypcg8kFCcFZPXn08bknLISRdIR3SWJ7pEoLQhaOUftHy1t-2Fcd45tKWsf-2Fh=
+ozDvSdEcIREJtTW3TailZD2-2BoIhUhVcJkyIuZv562v7bnv0sgAQGFI1OTP5VULaLPE-3D" ta=
+rget=3D"_blank" rel=3D"noopener noreferrer" tabindex=3D"-1"> <img class=3D"=
+left fixedwidth" border=3D"0" src=3D"https://s3.amazonaws.com/playkids.mail=
+-marketing/PKExplorer/novo-2.0/02122019/Modelo_explorer_mudou-pra-melhor_28=
+.png" style=3D"text-decoration: none; -ms-interpolation-mode: bicubic; heig=
+ht: auto; border: none; width: 100%; max-width: 570px; display: block;" wid=
+th=3D"570" /></a>
+<div style=3D"font-size: 1px; line-height: 10px;">&nbsp;</div>
+<!--[if mso]></td></tr></table><![endif]--></div>
+<div class=3D"img-container left  autowidth  fullwidth" align=3D"left" styl=
+e=3D"padding-right: 10px; padding-left: 10px;"><!--[if mso]><table width=3D=
+"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-h=
+eight:0px"><td style=3D"padding-right: 10px;padding-left: 10px;" align=3D"l=
+eft"><![endif]-->
+<div style=3D"font-size: 1px; line-height: 10px;">&nbsp;</div>
+<a href=3D"http://link.playkids.com/wf/click?upn=3DFoXiGDMNwKKHrbLsowDQHwpS=
+UyMbl2s4AX6wHrpgil77Uihc-2BYj-2FyoEuc6bU-2FiyXzXfcLnRSCKC3MTDwdfiffp5W26N2w=
+WqCh-2FT-2FDySvfQR3tmGtWPvpF4khJ87s4x1dz9b2eWbZsz3x-2F3IPnst8LWerSZ9ulBvITR=
+m-2FXQKjfEmWBq76-2B4ZIe67ez470iQKAXPOW0Qpx7UXeBnGnnGq0Qc0zwQ5AGLkVbRs5-2BuF=
+s632TJDWy0K4D4X3kP-2Bbx3u0S61-2BnhmeoA86V-2BdarNchou-2FNB3h2BmtL90JEzCH7kKs=
+M-3D_2eLxXtejjaJJHEfi0Fuzl908VwGNRyG7JfrFQvpoLOXitM-2BgT3Cp-2F39X918CCtn0sJ=
+bPP9uo6iq1gDw8Fo6S9TW0wq2JE8hCN7FSN3gsft2vHUG5Y9a-2BGho3o6PVMocW2dmmgAcpJRH=
+2zvfxAvCit196-2B6ZyNazywg5GXBoodwMubURDy68mTKpBftoxqauuDCm5ysJ9eeytm5BsTvVY=
+ZDumPm-2FzDXn6lYbNFTd0d-2BfOHZwcQ69gkVrdhxkGL3u68ABNiTDzgGMEhGlCzxP69NvWNfr=
+gJreo6tv25sX57Z06p8DVrby-2Fc5HE3Z-2B9FwvqqdtEBUvR5WfWZjv2j5RLgSqxmrckUeX6NB=
+uyctWKXLRZ3vAhYbHZVqJSeBJZbGajEkuT6eL93VxLUI-2BUCc-2F34DNxp25m4XOIWF6CJjYEo=
+PqvzzeGdqu7qT4EECL6-2BCIC95Cb49wn20mrs9FKX-2BOPCs0c20ji-2BzGqKMdk8zWtUheSBE=
+P9SNefeWlydcLn7iQId4hPLh9mJ3VisvLjO8-2FHx-2B7LyZ-2FyHUJYbleM9eNQ-2FpIXh6rPR=
+mMnijCctc8F-2FVJFld9n8eDMOKPhaGMt0Zd-2FhQhLXyftteo4dKy5wWamgxrpfkIf7XPH1DcQ=
+WiNHLFJ1X36tLAGd5RQj-2BZaIt6bXa9-2BBY0vEgh3xWAEpS-2F6emkU-3D" target=3D"_bl=
+ank" rel=3D"noopener noreferrer" tabindex=3D"-1"> <img class=3D"left  autow=
+idth  fullwidth" border=3D"0" src=3D"https://s3.amazonaws.com/playkids.mail=
+-marketing/PKExplorer/novo-2.0/02122019/Modelo_explorer_mudou-pra-melhor_31=
+.png" style=3D"text-decoration: none; -ms-interpolation-mode: bicubic; heig=
+ht: auto; border: none; width: 100%; max-width: 550px; display: block;" wid=
+th=3D"550" /></a>
+<div style=3D"font-size: 1px; line-height: 10px;">&nbsp;</div>
+<!--[if mso]></td></tr></table><![endif]--></div>
+<div class=3D"img-container left  autowidth  fullwidth" align=3D"left" styl=
+e=3D"padding-right: 10px; padding-left: 10px;"><!--[if mso]><table width=3D=
+"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-h=
+eight:0px"><td style=3D"padding-right: 10px;padding-left: 10px;" align=3D"l=
+eft"><![endif]-->
+<div style=3D"font-size: 1px; line-height: 10px;">&nbsp;</div>
+<a href=3D"http://link.playkids.com/wf/click?upn=3DFoXiGDMNwKKHrbLsowDQH-2F=
+44Br24kQNoumI-2FUqQzSBko1PH1hW4-2FEoYd7yaaWqEgsMDDKNnVKAiwU320nxORuCP18mGlo=
+Cvf3RA6WJ7CYO05yRgj5DYhxaurGW0aZz3eRWSbgADqsClaZ806O80s44Jrlan0cuPSMReGV2cU=
+oJeGZ8xGQFbKR8GkZtN3-2FsQRchPJFQmcwK78FAp7N8-2FZ1TSTw4UNXsqWlz3X1kQzw7FmZYn=
+TbGepp-2BI8sje94Aa7_2eLxXtejjaJJHEfi0Fuzl908VwGNRyG7JfrFQvpoLOXitM-2BgT3Cp-=
+2F39X918CCtn0sJbPP9uo6iq1gDw8Fo6S9TW0wq2JE8hCN7FSN3gsft2vHUG5Y9a-2BGho3o6PV=
+MocW2dmmgAcpJRH2zvfxAvCit196-2B6ZyNazywg5GXBoodwMubURDy68mTKpBftoxqauuDCm5y=
+sJ9eeytm5BsTvVYZDumPm-2FzDXn6lYbNFTd0d-2BfOHZwcQ69gkVrdhxkGL3u68ABNiTDzgGME=
+hGlCzxP69NvWNfrgJreo6tv25sX57Z06p8DVrby-2Fc5HE3Z-2B9FwvqqdtEBUvR5WfWZjv2j5R=
+LgSqxmrckUeX6NBuyctWKXLRZ3vAhYbHZVqJSeBJZbGajEkuT6eL93VxLUI-2BUCc-2F34DNxp2=
+5m4XOIWF6CJjYEoPqvzzeGdqu7qT4EECL6-2BCIC95Cb49wn20mrs9FKX-2BOPCs0c20ji-2BzG=
+qKMdk8zWtUhejpC3mJHfs1dOxnrnjI-2BxwiAq-2BFbUQ8PvhncDBinRV1YyckojN0hD4R6oqK7=
+qYdcF2uyqjOmxAGHQS7ek-2FtfKFjHDfRr-2F-2FhBUFe10WlqaaExlLnALHqjPEvhRTQNWRSWF=
+2jusmXpAbEtX3RzAwApKi-2BW-2F3VxN3v3ZBOOo3unjc-2BilbZC-2B6hdyfS1OZTaL0cq8-3D=
+" target=3D"_blank" rel=3D"noopener noreferrer" tabindex=3D"-1"> <img class=
+=3D"left  autowidth  fullwidth" border=3D"0" src=3D"https://s3.amazonaws.co=
+m/playkids.mail-marketing/PKExplorer/novo-2.0/02122019/Modelo_explorer_mudo=
+u-pra-melhor_33.png" style=3D"text-decoration: none; -ms-interpolation-mode=
+: bicubic; height: auto; border: none; width: 100%; max-width: 550px; displ=
+ay: block;" width=3D"550" /></a>
+<div style=3D"font-size: 1px; line-height: 10px;">&nbsp;</div>
+<!--[if mso]></td></tr></table><![endif]--></div>
+<div class=3D"img-container center fixedwidth" align=3D"center" style=3D"pa=
+dding-right: 10px; padding-left: 10px;"><!--[if mso]><table width=3D"100%" =
+cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0=
+px"><td style=3D"padding-right: 10px;padding-left: 10px;" align=3D"center">=
+<![endif]-->
+<div style=3D"font-size: 1px; line-height: 10px;">&nbsp;</div>
+<img class=3D"center fixedwidth" align=3D"center" border=3D"0" src=3D"https=
+://s3.amazonaws.com/playkids.mail-marketing/PKExplorer/novo-2.0/28112019/Mo=
+delo_explorer_mudou01_36.png" alt=3D"CTA: Assine Playkids App" title=3D"CTA=
+: Assine Playkids App" style=3D"text-decoration: none; -ms-interpolation-mo=
+de: bicubic; border: 0; height: auto; width: 100%; max-width: 427px; displa=
+y: block;" width=3D"427" />
+<div style=3D"font-size: 1px; line-height: 10px;">&nbsp;</div>
+<!--[if mso]></td></tr></table><![endif]--></div>
+<!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]--></div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--> <!--[if (mso)|(IE)]></td=
+></tr></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style=3D"background-color: #f0f0f0;">
+<div class=3D"block-grid " style=3D"margin: 0 auto; min-width: 320px; max-w=
+idth: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: =
+break-word; background-color: #ffffff;">
+<div style=3D"border-collapse: collapse; display: table; width: 100%; backg=
+round-color: #ffffff;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color:#F0F0F0;">=
+<tr><td align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"width:600px"><tr class=3D"layout-full-width" style=3D"backg=
+round-color:#FFFFFF"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" =
+width=3D"600" style=3D"background-color:#FFFFFF;width:600px; border-top: 0p=
+x solid transparent; border-left: 0px solid transparent; border-bottom: 0px=
+ solid transparent; border-right: 0px solid transparent;" valign=3D"top"><t=
+able width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d style=3D"padding-right: 0px; padding-left: 0px; padding-top:0px; padding-=
+bottom:0px;"><![endif]-->
+<div class=3D"col num12" style=3D"min-width: 320px; max-width: 600px; displ=
+ay: table-cell; vertical-align: top; width: 600px;">
+<div style=3D"width: 100% !important;"><!--[if (!mso)&(!IE)]><!-->
+<div style=3D"border: 0px solid transparent; padding: 0px;"><!--<![endif]-->
+<div class=3D"img-container center fixedwidth" align=3D"center" style=3D"pa=
+dding-right: 0px; padding-left: 0px;"><!--[if mso]><table width=3D"100%" ce=
+llpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr style=3D"line-height:0px=
+"><td style=3D"padding-right: 0px;padding-left: 0px;" align=3D"center"><![e=
+ndif]--><img class=3D"center fixedwidth" align=3D"center" border=3D"0" src=
+=3D"https://s3.amazonaws.com/playkids.mail-marketing/PKExplorer/novo-2.0/28=
+112019/Modelo_explorer_mudou01_39.png" alt=3D"Fa&ccedil;a parte do Explorer=
+ | Explore agora" title=3D"Fa&ccedil;a parte do Explorer | Explore agora" s=
+tyle=3D"text-decoration: none; -ms-interpolation-mode: bicubic; border: 0; =
+height: auto; width: 100%; max-width: 600px; display: block;" width=3D"600"=
+ /> <!--[if mso]></td></tr></table><![endif]--></div>
+<!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]--></div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--> <!--[if (mso)|(IE)]></td=
+></tr></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<div style=3D"background-color: #f0f0f0;">
+<div class=3D"block-grid " style=3D"margin: 0 auto; min-width: 320px; max-w=
+idth: 600px; overflow-wrap: break-word; word-wrap: break-word; word-break: =
+break-word; background-color: #f0f0f0;">
+<div style=3D"border-collapse: collapse; display: table; width: 100%; backg=
+round-color: #f0f0f0;"><!--[if (mso)|(IE)]><table width=3D"100%" cellpaddin=
+g=3D"0" cellspacing=3D"0" border=3D"0" style=3D"background-color:#F0F0F0;">=
+<tr><td align=3D"center"><table cellpadding=3D"0" cellspacing=3D"0" border=
+=3D"0" style=3D"width:600px"><tr class=3D"layout-full-width" style=3D"backg=
+round-color:#F0F0F0"><![endif]--> <!--[if (mso)|(IE)]><td align=3D"center" =
+width=3D"600" style=3D"background-color:#F0F0F0;width:600px; border-top: 0p=
+x solid transparent; border-left: 0px solid transparent; border-bottom: 0px=
+ solid transparent; border-right: 0px solid transparent;" valign=3D"top"><t=
+able width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" border=3D"0"><tr><t=
+d style=3D"padding-right: 10px; padding-left: 10px; padding-top:10px; paddi=
+ng-bottom:10px;"><![endif]-->
+<div class=3D"col num12" style=3D"min-width: 320px; max-width: 600px; displ=
+ay: table-cell; vertical-align: top; width: 600px;">
+<div style=3D"width: 100% !important;"><!--[if (!mso)&(!IE)]><!-->
+<div style=3D"border: 0px solid transparent; padding: 10px;"><!--<![endif]-=
+-> <!--[if mso]><table width=3D"100%" cellpadding=3D"0" cellspacing=3D"0" b=
+order=3D"0"><tr><td style=3D"padding-right: 15px; padding-left: 0px; paddin=
+g-top: 15px; padding-bottom: 15px; font-family: Arial, sans-serif"><![endif=
+]-->
+<div style=3D"color: #373737; font-family: 'Helvetica Neue', Helvetica, Ari=
+al, sans-serif; line-height: 1.5; padding: 15px 15px 15px 0px;">
+<div style=3D"line-height: 1.5; font-size: 12px; font-family: 'Helvetica Ne=
+ue', Helvetica, Arial, sans-serif; color: #373737; mso-line-height-alt: 18p=
+x;">
+<p style=3D"font-size: 12px; line-height: 1.5; text-align: center; mso-line=
+-height-alt: 18px; margin: 0;"><strong><span style=3D"color: #525f7f; font-=
+size: 14px;">Precisa de ajuda?</span></strong></p>
+<p style=3D"font-size: 14px; line-height: 1.5; text-align: center; mso-line=
+-height-alt: 21px; margin: 0;"><span style=3D"color: #525f7f; font-size: 14=
+px;">Visite <strong><a style=3D"text-decoration: underline; color: #eb7c1e;=
+" href=3D"http://link.playkids.com/wf/click?upn=3Djx54cdHfGtzXFT85YUW1SA2qa=
+IK-2BnPW8ZFw7j-2FPqVzpIFBeRKq3-2Fshq-2BZ17i9E4acfdEVI9wZvT0LLBE1L62Iw862a9m=
+1-2BnSk1ZKm7iYDzauJDqIi3CuYC2dNbvU8-2BOlDPUgVMrOGMu-2B5RQ7-2Brlsk-2BPlmPzwK=
+nlvBpS4WRV56TUUowiZXzVeiVqJCMYOJdlNlU7OxVlx8k6NfA14q5q0D918UanBcZ2ssvqqlcR0=
+1tRAUGzYHT2UPJaW6vs64GNO_2eLxXtejjaJJHEfi0Fuzl908VwGNRyG7JfrFQvpoLOXitM-2Bg=
+T3Cp-2F39X918CCtn0sJbPP9uo6iq1gDw8Fo6S9TW0wq2JE8hCN7FSN3gsft2vHUG5Y9a-2BGho=
+3o6PVMocW2dmmgAcpJRH2zvfxAvCit196-2B6ZyNazywg5GXBoodwMubURDy68mTKpBftoxqauu=
+DCm5ysJ9eeytm5BsTvVYZDumPm-2FzDXn6lYbNFTd0d-2BfOHZwcQ69gkVrdhxkGL3u68ABNiTD=
+zgGMEhGlCzxP69NvWNfrgJreo6tv25sX57Z06p8DVrby-2Fc5HE3Z-2B9FwvqqdtEBUvR5WfWZj=
+v2j5RLgSqxmrckUeX6NBuyctWKXLRZ3vAhYbHZVqJSeBJZbGajEkuT6eL93VxLUI-2BUCc-2F34=
+DNxp25m4XOIWF6CJjYEoPqvzzeGdqu7qT4EECL6-2BCIC95Cb49wn20mrs9FKX-2BOPCs0c20ji=
+-2BzGqKMdk8zWtUhc-2BPRFbZb6mbtm4MlVZu4TGL-2Fu9Z-2FU5nzFe-2B-2F2tT2RJcy8-2F1=
+LjWMUQeTt1VZfqMxYv9cUBvVENfb3hWdgQPUosADO-2FPcHlkvID5WDe7UiMNFhdccoBSjpA3kg=
+IFY9vdoB-2ByzWL3Hipod9LSohv65YsVaYeQOyVu91rC-2FwXOsOFf8p80F-2FBFymLXQs1Ea3V=
+aouI-3D" target=3D"_blank" rel=3D"noopener noreferrer">explorer.playkids.co=
+m</a></strong> ou envie um e-mail para <strong><a style=3D"text-decoration:=
+ underline; color: #eb7c1e;" href=3D"mailto:suporte@explorer.com" target=3D=
+"_blank" rel=3D"noopener noreferrer">suporte@explorer.com</a></strong></spa=
+n></p>
+<p style=3D"font-size: 14px; line-height: 1.5; text-align: center; mso-line=
+-height-alt: 21px; margin: 0;"><span style=3D"color: #525f7f; font-size: 14=
+px;">Caso n&atilde;o queira receber mais nossos e-mails, <a href=3D"http://=
+link.playkids.com/wf/unsubscribe?upn=3D2eLxXtejjaJJHEfi0Fuzl908VwGNRyG7JfrF=
+QvpoLOXitM-2BgT3Cp-2F39X918CCtn0sJbPP9uo6iq1gDw8Fo6S9TW0wq2JE8hCN7FSN3gsft2=
+vHUG5Y9a-2BGho3o6PVMocW2dmmgAcpJRH2zvfxAvCit196-2B6ZyNazywg5GXBoodwMubURDy6=
+8mTKpBftoxqauuDCm5ysJ9eeytm5BsTvVYZDumPm-2FzDXn6lYbNFTd0d-2BfOHZwcQ69gkVrdh=
+xkGL3u68ABNiTDzgGMEhGlCzxP69NvWNfrgJreo6tv25sX57Z06p8DVrby-2Fc5HE3Z-2B9Fwvq=
+qdtEBUvR5WfWZjv2j5RLgSqxmrckUeX6NBuyctWKXLRZ3vAhYbHZVqJSeBJZbGajEkuT6eL93Vx=
+LUI-2BUCc-2F34DNxp25m4XOIWF6CJjYEoPqvzzeGdqu7qT4EECL6-2BCIC95Cb49wn20mrs9FK=
+X-2BOPCs0c20ji-2BzGqKMdk8zWtUheUFUdCClr2KV0jTfeaNP2tNHfIJ6eVJnlLv57icZ6iEdE=
+4ItR2XMel-2BvsUw0fVn7P28-2FBaaLQQiLWmRfCAaowO1WSI8QbUAiu7ACh5Hj81OgGyYh7u8J=
+mUaacWmhWu49RspxKeYHDNlJGnR8p-2FFUIfTnweiWChtc5bN41f2je9wZ5cbYf6hdI1rxLyGyu=
+5I-2F8-3D" target=3D"_blank" rel=3D"noopener noreferrer" style=3D"color: #e=
+b7c1e;">clique aqui</a>&nbsp;</span></p>
+</div>
+</div>
+<!--[if mso]></td></tr></table><![endif]-->
+<table class=3D"social_icons" cellpadding=3D"0" cellspacing=3D"0" width=3D"=
+100%" role=3D"presentation" style=3D"table-layout: fixed; vertical-align: t=
+op; border-spacing: 0; border-collapse: collapse; mso-table-lspace: 0pt; ms=
+o-table-rspace: 0pt;" valign=3D"top">
+<tbody>
+<tr style=3D"vertical-align: top;" valign=3D"top">
+<td style=3D"word-break: break-word; vertical-align: top; padding: 10px;" v=
+align=3D"top">
+<table class=3D"social_table" align=3D"center" to=3D"to" activate=3D"activa=
+te" alignment=3D"alignment" cellpadding=3D"0" cellspacing=3D"0" role=3D"pre=
+sentation" style=3D"table-layout: fixed; vertical-align: top; border-spacin=
+g: 0; border-collapse: undefined; mso-table-tspace: 0; mso-table-rspace: 0;=
+ mso-table-bspace: 0; mso-table-lspace: 0;" valign=3D"top">
+<tbody>
+<tr style=3D"vertical-align: top; display: inline-block; text-align: center=
+;" align=3D"center" valign=3D"top">
+<td style=3D"word-break: break-word; vertical-align: top; padding-bottom: 5=
+px; padding-right: 3px; padding-left: 3px;" valign=3D"top"><a href=3D"http:=
+//link.playkids.com/wf/click?upn=3DfC5y6j9IA94XK1L3eyr7KlkdRzAu6jXYIuxZj0M4=
+vdAaARqZaBddd1n5yNK5Dt-2FBESaS-2FZd8qB3cRMyFm2tyCbrqs7J5fCGhl8o4Ep-2Fs6RhWS=
+vUNYAmbvdGUHSpaeUJ5Q8comhB5gu7h6o1qwlGPG4KNu-2FmNfKQNcgXZHOuwHrd3uo254PDVqy=
+H07etqyFYO1MLi-2BrJE9c5GofNCpajHeb4i-2BzttZ4CYO3HldeAAlDO6HUSPf4FbQQ1wZGgyv=
+VgE_2eLxXtejjaJJHEfi0Fuzl908VwGNRyG7JfrFQvpoLOXitM-2BgT3Cp-2F39X918CCtn0sJb=
+PP9uo6iq1gDw8Fo6S9TW0wq2JE8hCN7FSN3gsft2vHUG5Y9a-2BGho3o6PVMocW2dmmgAcpJRH2=
+zvfxAvCit196-2B6ZyNazywg5GXBoodwMubURDy68mTKpBftoxqauuDCm5ysJ9eeytm5BsTvVYZ=
+DumPm-2FzDXn6lYbNFTd0d-2BfOHZwcQ69gkVrdhxkGL3u68ABNiTDzgGMEhGlCzxP69NvWNfrg=
+Jreo6tv25sX57Z06p8DVrby-2Fc5HE3Z-2B9FwvqqdtEBUvR5WfWZjv2j5RLgSqxmrckUeX6NBu=
+yctWKXLRZ3vAhYbHZVqJSeBJZbGajEkuT6eL93VxLUI-2BUCc-2F34DNxp25m4XOIWF6CJjYEoP=
+qvzzeGdqu7qT4EECL6-2BCIC95Cb49wn20mrs9FKX-2BOPCs0c20ji-2BzGqKMdk8zWtUhcpxxz=
+lC0la8m4zeraMbv-2BQpUkM8bXoAm4IqchyXGeesP8BjIp-2BM6yuQkmTKH-2F9NuO6mtQk-2FA=
+c571Um0UjRIePM3sg00GLKMqe77XLvMN42-2BwfXxa2bxQCzNa29tIC7uaiR0fCg-2Fah-2B7ba=
+Ft12iWtD-2FR6gRith8Ggi6yQDa4ZMoWjXs2rJQ7T5f7pkLZJqPOZE-3D" target=3D"_blank=
+" rel=3D"noopener noreferrer"><img width=3D"32" height=3D"32" src=3D"https:=
+//d2fi4ri5dhpqd1.cloudfront.net/public/resources/social-networks-icon-sets/=
+t-outline-circle-dark-gray/instagram@2x.png" alt=3D"Instagram" title=3D"Ins=
+tagram" style=3D"text-decoration: none; -ms-interpolation-mode: bicubic; he=
+ight: auto; border: none; display: block;" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--[if (!mso)&(!IE)]><!--></div>
+<!--<![endif]--></div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--> <!--[if (mso)|(IE)]></td=
+></tr></table></td></tr></table><![endif]--></div>
+</div>
+</div>
+<!--[if (mso)|(IE)]></td></tr></table><![endif]--></td>
+</tr>
+</tbody>
+</table>
+<!--[if (IE)]></div><![endif]-->
+
+<img src=3D"http://link.playkids.com/wf/open?upn=3D2eLxXtejjaJJHEfi0Fuzl908=
+VwGNRyG7JfrFQvpoLOXitM-2BgT3Cp-2F39X918CCtn0sJbPP9uo6iq1gDw8Fo6S9TW0wq2JE8h=
+CN7FSN3gsft2vHUG5Y9a-2BGho3o6PVMocW2dmmgAcpJRH2zvfxAvCit196-2B6ZyNazywg5GXB=
+oodwMubURDy68mTKpBftoxqauuDCm5ysJ9eeytm5BsTvVYZDumPm-2FzDXn6lYbNFTd0d-2BfOH=
+ZwcQ69gkVrdhxkGL3u68ABNiTDzgGMEhGlCzxP69NvWNfrgJreo6tv25sX57Z06p8DVrby-2Fc5=
+HE3Z-2B9FwvqqdtEBUvR5WfWZjv2j5RLgSqxmrckUeX6NBuyctWKXLRZ3vAhYbHZVqJSeBJZbGa=
+jEkuT6eL93VxLUI-2BUCc-2F34DNxp25m4XOIWF6CJjYEoPqvzzeGdqu7qT4EECL6-2BCIC95Cb=
+49wn20mrs9FKX-2BOPCs0c20ji-2BzGqKMdk8zWtUhfFDH-2BGTqglYnq5ksTI-2FhPmYc9a3hx=
+iExmUwGEYgiooXC4gPa-2BDA6ZosNqBUvzFHis-2BjrqWRLQB2eNjrnOG4Uuj6utJfWWDtLngah=
+Y5cq4QaRzZ0GI0PpmzcxzMY7eEM8nZnTibf8EVpmiFVH39TR-2BShPUQR685kNa2o8b5mZ9lubz=
+Z97bg79YBqnodD-2FAeHf4-3D" alt=3D"" width=3D"1" height=3D"1" border=3D"0" s=
+tyle=3D"height:1px !important;width:1px !important;border-width:0 !importan=
+t;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !import=
+ant;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !imp=
+ortant;padding-right:0 !important;padding-left:0 !important;"/>
+</body>
+
+</html>
+
+--d194781191f46484577c3a0d40295872676363ef57fbb7e2277fe32bbe70--

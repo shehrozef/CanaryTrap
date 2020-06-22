@@ -1,0 +1,1 @@
+We received several spam emails from unknown senders on the email account of the honeytoken shared with ''WeWanted 購車首選！'' app. Some examples of these spam emails include links to adult websites and Viagra products. 

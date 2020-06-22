@@ -1,0 +1,1365 @@
+Return-Path: <isango@hello.isango.com>
+X-Original-To: mailarchiveuser@localhost
+Delivered-To: mailarchiveuser@localhost
+Received: from r49.hello.isango.com (r49.hello.isango.com [66.235.130.49])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by vandustech.com (Postfix) with ESMTPS id 73B7B49A2F
+	for <stegmeier-pyer@vandustech.com>; Thu, 18 Jul 2019 10:32:55 +0000 (UTC)
+Authentication-Results: vandustech.com;
+	dkim=pass (1024-bit key; unprotected) header.d=hello.isango.com header.i=@hello.isango.com header.b="fANEpdWh";
+	dkim-atps=neutral
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hello.isango.com;
+	s=neolane; t=1563445943;
+	bh=qdLnP/f19vZ7VwygTCQOpO+Jfhds6ep+nIzokIL97jc=;
+	h=From:Date:Subject:To:MIME-Version:Message-ID:List-Unsubscribe:
+	 Content-Type;
+	b=fANEpdWhTyU9zNlp5DMhduACzhvHQ1r529JZQzzGhaGj98Nh1Xfn1rVvSRKQeOoxe
+	 zTak3M9DTEhLaDAZvo93OgzT98WpvfIaBkiNqnRqBLvlA3VdvOP7qw06Y80aq40J57
+	 h3dHJroGZh/WtHrMGH2cMvnpvGjo4k0nOpAb4338=
+Received: from [52.77.51.174] ([52.77.51.174:4463] helo=r49.hello.isango.com)
+	by momentum03.sin2.cpt.adobe.net (envelope-from <isango@hello.isango.com>)
+	(ecelerity 4.2.31.59853 r(Core:4.2.31.1)) with ESMTP
+	id 0D/C3-09682-7BA403D5; Thu, 18 Jul 2019 03:32:23 -0700
+From: "isango! Monthly Newsletter" <newsletter@hello.isango.com>
+Date: Thu, 18 Jul 2019 18:32:50 +0800
+Subject: =?utf-8?B?VGFrZSBQcmlkZSB0b2RhecKgIFNoaWthbWFydSAsIHdpdGggYQ==?=
+ =?utf-8?B?IHRvcCB0b3VyIPCfjIg=?=
+To: <stegmeier-pyer@vandustech.com>
+Reply-To: "isango!" <no-reply@hello.isango.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 7.0.0.10537
+Message-ID: <AC700000000025BA8E2029C232Disango_mkt_prod1@hello.isango.com>
+List-Unsubscribe: <http://m.hello.isango.com/lp/bl?pkey=%400NXVXFQ2du5itCsUw5ej9KNMkIyGy2iwAW_vGCYEfQQyK-BtzteLnoIuMcTWDznpc5dbveK-FfxpN70xpuk9mUPmt1A>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_848_1521522E.1521522E"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_848_1521522E.1521522E
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+isango
+
+Hey Travelers,
+
+It's a Summer of Pride, full of colour and good vibes. Don't hide Gay Pride.
+Inclusive for all from guided walks, understanding history to bar crawls! Don't hide Gay Pride.
+Carnival delights in cities with sites. Don't hide Gay Pride.
+
+Pride season may have just finished, but that doesn't mean the celebrations and parties end! Keep the festivities going? Add in a tour, and you'll learn and add so much more. Time to take Pride and enjoy the delights of these top LGBTQ cities and their sites.
+
+Happy 'Pride' Celebrations!
+Experience the WORLD with us!
+
+San Francisco
+A walk for rights in a city that delights. There is no better place to be than in the city with a Golden gate and a history as rich as this.
+
+San Francisco LGBTQ Tour: The Castro Human Rights Walk
+BOOK NOW
+
+Paris
+Time to walk the streets of Paris or should that be Marais? This area takes pride in showing it's love towards the LGBTQ community. Now you can discover it too.
+
+Walking Gay Paris – Discovering Marais the LGBT District
+BOOK NOW
+
+Tokyo
+Thrive in Tokyo with a holistic LGBTQ tour. Asakusa and Shinjuku await as you explore the elder and modern gay districts of this metropolis.
+
+LGBTQIA+ Tokyo, Then And Now
+BOOK NOW
+
+New York City
+Explore and learn more! From the history of the Gay Rights Movement to Manhattan's oldest gay bar. Anyone for Big Gay ice cream?
+
+From Darkness to Light: Greenwich Village Stonewall LGBTQ History Tour
+BOOK NOW
+
+London
+Acceptance and celebration in the heart of Soho. This is a drinking tour into Gay London. Bars, clubs and old boozers! Everyone is welcome.
+
+Queer London: A Tipsy Intro to Soho
+BOOK NOW
+
+Sydney
+See the sites and hear the stories in one of the world's friendliest cities. From iconic hangouts to the gay strip, you're in for a treat.
+
+Sydney's Gay and Lesbian History and Culture Tour
+BOOK NOW
+
+Barcelona
+Make your way to Barcelona, a city with a rich culture and a tour of the favourite LGBTQ spots. Hop on the bus, it's a modern masterpiece.
+
+Barcelona's Modernist Houses Tour with Visit to Casa Batlló and Sagrada Familia: Skip-the-Line
+BOOK NOW
+
+Madrid
+Time for some club hopping Madrid style. Visit the go to bars. Party, dance and mingle in the top LGBTQ hotspots.
+
+Madrid Private Gay Nightlife Tour with a Guide
+BOOK NOW
+
+Latest from the blog
+
+Bilbao and Barcelona: One Short Trip With Two Great Destinations
+READ MORE
+
+20 Frequently Asked Questions You Should Know Before Visiting DisneyLand® Paris
+READ MORE
+
+Discover more epic adventures and activities to suit all interests on isango! now.
+
+Contact: support@isango.com | +44 203 355 1240 (INTERNATIONAL)
+0124 4148173 (IND) | 1-866 682 9791 (CANADA) | 0034 871 180 005 (SPAIN) 
+1-866 663 7017 (USA) | 089 6667 9194 (GERMANY) | 0203 355 1240 (UK) | 1-800 008 739 (AUSTRALIA)
+
+*Please note that prices and availability were accurate at the time of publication of this email, but are subject to change. To ensure future newsletters are delivered straight to your inbox, please add newsletter@hello.isango.com to your address book.
+
+27 Goswell Road, London EC1M 7GT. ©isango 2016
+
+------=_NextPart_848_1521522E.1521522E
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<link href=3D"https://fonts.googleapis.com/css=3Ffamily=3DRoboto" rel=3D"st=
+ylesheet">
+<title>eNewsletter</title>
+<style type=3D"text/css">
+@media (max-width:600px) {
+=2EContainer {
+=09width: 99% !important;
+}
+=2EPadding {
+=09width: 15px !important;
+}
+=2Eborder {
+=09width: 100% !important;
+=09text-align: center;
+}
+=2Eproduct-1 {
+=09width: 100% !important;
+=09height: auto;
+=09text-align: center !important;
+=09align-content: center;
+}
+=2ESocial {
+=09width: 23px !important;
+=09height: auto !important;
+}
+=2Elogo-is {
+=09width: 120px
+}
+=2ES-text {
+=09font-size: 9px !important;
+=09color: #88888f;
+}
+=2EPara {
+=09font-size: 14px !important;
+}
+=2EHead {
+=09font-size: 18px !important;
+}
+=2ECTA {
+=09width: 130px !important;
+=09padding: 2px 0px 10px 0px;
+}
+=2EFooter {
+=09width: 92% !important;
+}
+}
+
+@media (max-width:480px) {
+=2EContainer {
+=09width: 99% !important;
+}
+=09.Force-col {
+=09display: block;
+=09width: 100% !important;
+border: none !important;
+}
+=2Elogo-is {
+=09width: 100px !important;
+}
+=2ECTA {
+=09width: 130px !important;
+=09padding: 2px 0px 10px 0px;
+}
+=2Eproduct-1 {
+=09width: 100% !important;
+=09height: auto;
+=09text-align: center !important;
+=09align-content: center;
+}
+=2EPara {
+=09font-size: 13px !important;
+}
+=2EHead {
+=09font-size: 17px !important;
+}
+=2ES-text {
+=09font-size: 11px !important;
+=09color: #fff;
+}
+=2ESocial {
+=09width: 30px !important;
+=09height: auto !important;
+}
+=09@media (max-width:320px) {
+=2EContainer {
+=09width: 99% !important;
+}
+=09.Force-col {
+=09display: block;
+=09width: 100% !important;
+border: none !important;
+}
+=2Elogo-is {
+=09width: 100px !important;
+}
+=2ECTA {
+=09width: 130px !important;
+=09padding: 2px 0px 10px 0px;
+}
+=2Eproduct-1 {
+=09width: 100% !important;
+=09height: auto;
+=09text-align: center !important;
+=09align-content: center;
+=09text-align: 
+}
+=2EPara {
+=09font-size: 13px !important;
+}
+=2EHead {
+=09font-size: 17px !important;
+}
+=2ES-text {
+=09font-size: 11px !important;
+=09color: #fff;
+}
+=2ESocial {
+=09width: 30px !important;
+=09height: auto !important;
+}
+}
+</style>
+</head>
+<body style=3D"-webkit-text-size-adjust: none; -ms-text-size-adjust: none; =
+margin: 0; padding: 0;" bgcolor=3D"#ffffff" class=3D"">
+<table style=3D"border-collapse: collapse; border-spacing: 0px; width: 100%=
+;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td>
+<table class=3D"Container" style=3D"width: 600px;" cellspacing=3D"0" cellpa=
+dding=3D"0" border=3D"0" bgcolor=3D"ffffff" align=3D"center"><!--fixed gap-=
+->
+<tbody>
+<tr>
+<td style=3D"font-size: 0px; color: #ffffff;">Pride season may have finishe=
+d, but you can continue to share in the love=3F Our latest offers take you =
+across the globe to enjoy all that Gay Pride can offer. Let=E2=80=99s party=
+!</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table style=3D"width: 100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 10px; text-align: center; color: #888; font-family:=
+ 'Roboto', sans-serif; padding-top: 5px; padding-bottom: 5px;">If you have =
+trouble reading this message, <a href=3D"http://t.hello.isango.com/r/=3Fid=
+=3Dh25ba8e2,29c232d,29c232f&p1=3D18072019" title=3D"Web-Version" target=3D"=
+_blank" style=3D"font-weight: bold; color: #888;" >view in web</a></td>
+</tr>
+<tr>
+<td align=3D"center"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e=
+2,29c232d,29c2330&p1=3D18072019" title=3D"Homepage" target=3D"_blank" ><img=
+ src=3D"https://marketing.isango.com/newsletters/2016/Newsletter/Fixed/isan=
+go-logo.png" alt=3D"isango-Logo" class=3D"logo-is" title=3D"Homepage" style=
+=3D"padding: 5px;" width=3D"100" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"Container" style=3D"border-collapse: collapse; border-spaci=
+ng: 0px; width: 600px;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" al=
+ign=3D"center">
+<tbody>
+<tr>
+<td><!--Hero-->
+<table style=3D"margin-top: 5px;" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-align: center;"><a href=3D"http://t.hello.isango.com/r/=
+=3Fid=3Dh25ba8e2,29c232d,29c2331&p1=3D18072019" title=3D"Homepage" target=
+=3D"_blank" style=3D"display: inline-block;" ><img src=3D"https://marketing=
+.isango.com/newsletters/2019/Newsletter/17-Jul/hero.png" alt=3D"Hero Image"=
+ class=3D"product-1" width=3D"600" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+<!--Hero--> <!--intro text-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff">
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; text-align: center; color: =
+#333333; font-family: 'Roboto', sans-serif; width: 100%;" align=3D"center">=
+<!--Product Left-->
+<tbody>
+<tr>
+
+<td class=3D"Para" style=3D"text-align: center; font-family: 'Roboto', sans=
+-serif; line-height: 150%; color: #333333; padding: 8px;" data-nl-format=3D=
+"datetime">Hey Travelers, <br /><br />It=E2=80=99s a Summer of Pride, full =
+of colour and good vibes. Don=E2=80=99t hide Gay Pride.<br />Inclusive for =
+all from guided walks, understanding history to bar crawls! Don=E2=80=99t h=
+ide Gay Pride.<br />Carnival delights in cities with sites. Don=E2=80=99t h=
+ide Gay Pride.<br /><br />Pride season may have just finished, but that doe=
+sn=E2=80=99t mean the celebrations and parties end! Keep the festivities go=
+ing=3F Add in a tour, and you=E2=80=99ll learn and add so much more. Time t=
+o take Pride and enjoy the delights of these top LGBTQ cities and their sit=
+es.<br /> <br /> Happy =E2=80=98Pride=E2=80=99 Celebrations! <br /><em>Expe=
+rience the WORLD with us!</em></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--intro text--> <!--A1-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #ececec; opacity: 0.50;" />
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td class=3D"Head"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,=
+29c232d,29c2332&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=
+=3D"font-size: 17px; font-weight: Bold; text-transform: uppercase; color: #=
+333333; text-decoration: none;" >San Francisco</a></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">A walk for righ=
+ts in a city that delights. There is no better place to be than in the city=
+ with a Golden gate and a history as rich as this.</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2333=
+&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"https://marketing.isango.com/newsletters/2019/Ne=
+wsletter/17-Jul/A1.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" hei=
+ght=3D"auto" /></a></td>
+</tr>
+<tr>
+<td style=3D"text-transform: uppercase;">San Francisco LGBTQ Tour: The Cast=
+ro Human Rights Walk</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A1--> <!--A2-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td class=3D"Head"><hr style=3D"color: #ececec; opacity: 0.50;" /><a href=
+=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2334&p1=3D18072=
+019" title=3D"Book Now" target=3D"_blank" style=3D"font-size: 17px; font-we=
+ight: Bold; text-transform: uppercase; color: #333333; text-decoration: non=
+e;" >Paris</a></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">Time to walk th=
+e streets of Paris or should that be Marais=3F This area takes pride in sho=
+wing it=E2=80=99s love towards the LGBTQ community. Now you can discover it=
+ too.</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2335=
+&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"https://marketing.isango.com/newsletters/2019/Ne=
+wsletter/17-Jul/A2.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" hei=
+ght=3D"auto" /></a></td>
+</tr>
+<tr>
+<td style=3D"text-transform: uppercase;">Walking Gay Paris =E2=80=93 Discov=
+ering Marais the LGBT District</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A2--> <!--A3-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td class=3D"Head"><hr style=3D"color: #ececec; opacity: 0.50;" /><a href=
+=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2336&p1=3D18072=
+019" title=3D"Book Now" target=3D"_blank" style=3D"font-size: 17px; font-we=
+ight: Bold; text-transform: uppercase; color: #333333; text-decoration: non=
+e;" >Tokyo</a></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">Thrive in Tokyo=
+ with a holistic LGBTQ tour. Asakusa and Shinjuku await as you explore the =
+elder and modern gay districts of this metropolis.</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2337=
+&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"https://marketing.isango.com/newsletters/2019/Ne=
+wsletter/17-Jul/A3.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" hei=
+ght=3D"auto" /></a></td>
+</tr>
+<tr>
+<td style=3D"text-transform: uppercase;">LGBTQIA+ Tokyo, Then And Now</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A3--> <!--A4-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td class=3D"Head"><hr style=3D"color: #ececec; opacity: 0.50;" /><a href=
+=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2338&p1=3D18072=
+019" title=3D"Book Now" target=3D"_blank" style=3D"font-size: 17px; font-we=
+ight: Bold; text-transform: uppercase; color: #333333; text-decoration: non=
+e;" >New York City</a></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">Explore and lea=
+rn more! From the history of the Gay Rights Movement to Manhattan=E2=80=99s=
+ oldest gay bar. Anyone for Big Gay ice cream=3F</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2339=
+&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"https://marketing.isango.com/newsletters/2019/Ne=
+wsletter/17-Jul/A4.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" hei=
+ght=3D"auto" /></a></td>
+</tr>
+<tr>
+<td style=3D"text-transform: uppercase;">From Darkness to Light: Greenwich =
+Village Stonewall LGBTQ History Tour</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A4--> <!--A5-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td class=3D"Head"><hr style=3D"color: #ececec; opacity: 0.50;" /><a href=
+=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c233a&p1=3D18072=
+019" title=3D"Book Now" target=3D"_blank" style=3D"font-size: 17px; font-we=
+ight: Bold; text-transform: uppercase; color: #333333; text-decoration: non=
+e;" >London</a></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">Acceptance and =
+celebration in the heart of Soho. This is a drinking tour into Gay London. =
+Bars, clubs and old boozers! Everyone is welcome.</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c233b=
+&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"https://marketing.isango.com/newsletters/2019/Ne=
+wsletter/17-Jul/A5.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" hei=
+ght=3D"auto" /></a></td>
+</tr>
+<tr>
+<td style=3D"text-transform: uppercase;">Queer London: A Tipsy Intro to Soh=
+o</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A5--> <!--A6-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #ececec; opacity: 0.50;" />
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td class=3D"Head"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,=
+29c232d,29c233c&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=
+=3D"font-size: 17px; font-weight: Bold; text-transform: uppercase; color: #=
+333333; text-decoration: none;" >Sydney</a></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">See the sites a=
+nd hear the stories in one of the world=E2=80=99s friendliest cities. From =
+iconic hangouts to the gay strip, you=E2=80=99re in for a treat.</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c233d=
+&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"https://marketing.isango.com/newsletters/2019/Ne=
+wsletter/17-Jul/A6.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" hei=
+ght=3D"auto" /></a></td>
+</tr>
+<tr>
+<td style=3D"text-transform: uppercase;">Sydney's Gay and Lesbian History a=
+nd Culture Tour</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A6--> <!--A7-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #ececec; opacity: 0.50;" />
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td class=3D"Head"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,=
+29c232d,29c233e&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=
+=3D"font-size: 17px; font-weight: Bold; text-transform: uppercase; color: #=
+333333; text-decoration: none;" >Barcelona</a></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">Make your way t=
+o Barcelona, a city with a rich culture and a tour of the favourite LGBTQ s=
+pots. Hop on the bus, it=E2=80=99s a modern masterpiece.</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c233f=
+&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"https://marketing.isango.com/newsletters/2019/Ne=
+wsletter/17-Jul/A7.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" hei=
+ght=3D"auto" /></a></td>
+</tr>
+<tr>
+<td style=3D"text-transform: uppercase;">Barcelona=E2=80=99s Modernist Hous=
+es Tour with Visit to Casa Batll=C3=B3 and Sagrada Familia: Skip-the-Line</=
+td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A7--> <!--A8-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td class=3D"Head"><hr style=3D"color: #ececec; opacity: 0.50;" /><a href=
+=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2340&p1=3D18072=
+019" title=3D"Book Now" target=3D"_blank" style=3D"font-size: 17px; font-we=
+ight: Bold; text-transform: uppercase; color: #333333; text-decoration: non=
+e;" >Madrid</a></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">Time for some c=
+lub hopping Madrid style. Visit the go to bars. Party, dance and mingle in =
+the top LGBTQ hotspots.</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2341=
+&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"https://marketing.isango.com/newsletters/2019/Ne=
+wsletter/17-Jul/A8.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" hei=
+ght=3D"auto" /></a></td>
+</tr>
+<tr>
+<td style=3D"text-transform: uppercase;">Madrid Private Gay Nightlife Tour =
+with a Guide</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A8--> <!--blog-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td class=3D"Head"><hr style=3D"color: #ececec; opacity: 0.50;" /><a href=
+=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2342&p1=3D18072=
+019" title=3D"Book Now" target=3D"_blank" style=3D"font-size: 17px; font-we=
+ight: Bold; text-transform: uppercase; color: #333333; text-decoration: non=
+e;" ><img src=3D"https://marketing.isango.com/newsletters/2017/Guidebook/So=
+cial/gb-black.png" alt=3D"Image" class=3D"product-1" width=3D"140" height=
+=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">Latest from the=
+ blog</td>
+</tr>
+</tbody>
+</table>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2343=
+&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"https://marketing.isango.com/newsletters/2019/Ne=
+wsletter/17-Jul/gb1.jpg" alt=3D"Image" class=3D"product-1" width=3D"290" he=
+ight=3D"auto" /></a></td>
+</tr>
+<tr>
+<td style=3D"text-transform: uppercase;">Bilbao and Barcelona:<br />One Sho=
+rt Trip With Two Great Destinations</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2344=
+&p1=3D18072019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"https://marketing.isango.com/newsletters/2019/Ne=
+wsletter/17-Jul/gb2.jpg" alt=3D"Image" class=3D"product-1" width=3D"290" he=
+ight=3D"auto" /></a></td>
+</tr>
+<tr>
+<td style=3D"text-transform: uppercase;">20 Frequently Asked Questions You =
+Should Know Before Visiting DisneyLand=C2=AE Paris</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--blog--> <!--Feefo-->
+<table style=3D"margin-top: 5px;" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-align: center;"><hr style=3D"color: #f6f6f6; opacity: 0.5=
+0;" /><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c23=
+45" title=3D"Homepage" target=3D"_blank" style=3D"display: inline-block;" >=
+<img src=3D"https://marketing.isango.com/newsletters/2017/CRM/CrossSell/Dub=
+ai/review.png" alt=3D"Hero Image" class=3D"product-1" width=3D"600" height=
+=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+<!--Feefo--> <!--Guidebook-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 13px; font-weight: normal; text-alig=
+n: center; color: #333333; font-family: 'Roboto', sans-serif; line-height: =
+150%; padding: 0px 20px 10px 20px;">Discover more epic adventures and activ=
+ities to suit all interests on <a style=3D"color: #555; text-decoration: no=
+ne; font-weight: bold;" href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e=
+2,29c232d,29c2346&p1=3D18072019" title=3D"isango! Homepage" target=3D"_blan=
+k" >isango!</a> now.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Guidebook--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#ffffff" align=3D"center"><!--Social Bar Bottom-->
+<tbody>
+<tr>
+<td>
+<table style=3D"padding: 5px;" width=3D"300" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2347=
+&p1=3D18072019" title=3D"Facebook" target=3D"_blank" ><img src=3D"https://m=
+arketing.isango.com/newsletters/2016/Newsletter/Fixed/facebook.png" alt=3D"=
+FB" class=3D"Social" title=3D"Facebook" width=3D"30" height=3D"auto" /></a>=
+</td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2348=
+&p1=3D18072019" title=3D"Twitter" target=3D"_blank" ><img src=3D"https://ma=
+rketing.isango.com/newsletters/2016/Newsletter/Fixed/twitter.png" alt=3D"TW=
+" class=3D"Social" title=3D"Twitter" width=3D"30" height=3D"auto" /></a></t=
+d>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c2349=
+&p1=3D18072019" title=3D"Instagram" target=3D"_blank" ><img src=3D"https://=
+marketing.isango.com/newsletters/2016/Newsletter/Fixed/instagram.png" alt=
+=3D"IG" class=3D"Social" title=3D"Instagram" width=3D"30" height=3D"auto" /=
+></a></td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c234a=
+&p1=3D18072019" title=3D"Pinterest" target=3D"_blank" ><img src=3D"https://=
+marketing.isango.com/newsletters/2016/Newsletter/Fixed/pintrest.png" alt=3D=
+"PIN" class=3D"Social" title=3D"Pinterest" width=3D"30" height=3D"auto" /><=
+/a></td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c234b=
+&p1=3D18072019" title=3D"Youtube" target=3D"_blank" ><img src=3D"https://ma=
+rketing.isango.com/newsletters/2016/Newsletter/Fixed/youtube.png" alt=3D"YO=
+U" class=3D"Social" title=3D"Youtube" width=3D"30" height=3D"auto" /></a></=
+td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c234c=
+&p1=3D18072019" title=3D"Youtube" target=3D"_blank" ><img src=3D"https://ma=
+rketing.isango.com/newsletters/2016/Newsletter/Fixed/bloglovin.png" alt=3D"=
+BLOGLOVIN" class=3D"Social" title=3D"Bloglovin" width=3D"30" height=3D"auto=
+" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"Container" style=3D"border-collapse: collapse; border-spaci=
+ng: 0px; width: 600px; margin-top: 5px;" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td>
+<table style=3D"padding: 5px 0px 0px 0px; border-collapse: collapse; width:=
+ 100%; text-align: center;" bgcolor=3D"#f9f9f9" align=3D"center"><!--footer=
+-->
+<tbody>
+<tr>
+<td>
+<table class=3D"Footer" style=3D"width: 600px; text-align: center; padding:=
+ 5px;" bgcolor=3D"#f9f9f9" align=3D"center">
+<tbody>
+<tr>
+<td colspan=3D"3" style=3D"text-align: left; font-size: 14px; padding: 5px =
+0px 0px 0px; font-family: 'Roboto', sans-serif; color: #434a54;" align=3D"l=
+eft"><img src=3D"https://marketing.isango.com/newsletters/2016/Newsletter/F=
+ixed/Call.png" alt=3D"Call-icon" style=3D"vertical-align: bottom;" title=3D=
+"Call-icon" width=3D"15" height=3D"15" />=C2=A0Contact: <a href=3D"mailto:s=
+upport@isango.com" title=3D"Support" target=3D"_blank" style=3D"color: #256=
+09e; text-decoration: none;"><strong>support@isango.com</strong></a> | <a h=
+ref=3D"tel:+442033551240" style=3D"color: #25609e; text-decoration: none;">=
+<strong>+44=C2=A0203=C2=A0355=C2=A01240</strong></a>=C2=A0(INTERNATIONAL)</=
+td>
+</tr>
+<tr>
+<td style=3D"text-align: left; font-size: 11px; padding: 5px 0px 0px 0px; f=
+ont-family: 'Roboto', sans-serif; color: #434a54;" valign=3D"top" align=3D"=
+left"><a href=3D"tel:+01244148173" style=3D"color: #25609e; text-decoration=
+: none;"><strong>0124=C2=A04148173</strong></a>=C2=A0(IND) |<br /><a href=
+=3D"tel:+18666829791" style=3D"color: #25609e; text-decoration: none;"><str=
+ong>1-866 682 9791</strong></a> (CANADA) |<br /><a href=3D"tel:+00348711800=
+05" style=3D"color: #25609e; text-decoration: none;"><strong>0034 871 180 0=
+05</strong></a>=C2=A0(SPAIN)</td>
+<td style=3D"text-align: left; font-size: 11px; padding: 5px 0px 0px 0px; f=
+ont-family: 'Roboto', sans-serif; color: #434a54;" valign=3D"top" align=3D"=
+left"><a href=3D"tel:+18666637017" style=3D"color: #25609e; text-decoration=
+: none;"><strong>1-866=C2=A0663=C2=A07017</strong></a>=C2=A0(USA) |<br /><a=
+ href=3D"tel:+08966679194" style=3D"color: #25609e; text-decoration: none;"=
+><strong>089 6667 9194 </strong></a>(GERMANY) |</td>
+<td style=3D"text-align: left; font-size: 11px; padding: 5px 0px 0px 0px; f=
+ont-family: 'Roboto', sans-serif; color: #434a54;" valign=3D"top" align=3D"=
+left"><a href=3D"tel:+02033551240" style=3D"color: #25609e; text-decoration=
+: none;"><strong>0203=C2=A0355=C2=A01240</strong></a>=C2=A0(UK)<br /><a hre=
+f=3D"tel:+1800008739" style=3D"color: #25609e; text-decoration: none;"><str=
+ong>1-800 008 739</strong></a>=C2=A0(AUSTRALIA)</td>
+</tr>
+<tr>
+<td colspan=3D"3" style=3D"text-align: left; font-size: 10px; padding: 5px =
+0px 0px 0px; font-family: 'Roboto', sans-serif; color: #434a54;" align=3D"l=
+eft"><hr style=3D"color: #f4f4f4;" />*Please note that prices and availabil=
+ity were accurate at the time of publication of this email, but are subject=
+ to change. To ensure future newsletters are delivered straight to your inb=
+ox, please add <strong>newsletter@hello.isango.com</strong> to your address=
+ book.<br /> <font style=3D"font-family: Verdana, Arial; font-size: 10px"><=
+p>
+You are receiving this message because you have been in contact with ISANGO=
+ LIMITED or an affiliate. If you would like to stop receiving messages from=
+ ISANGO LIMITED
+<a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh25ba8e2,29c232d,29c234d&p1=
+=3D%400NXVXFQ2du5itCsUw5ej9KNMkIyGy2iwAW_vGCYEfQQyK-BtzteLnoIuMcTWDznpc5dbv=
+eK-FfxpN70xpuk9mUPmt1A" _label=3D"Opt-out link" _type=3D"optout" >click her=
+e</a>.
+</p>
+</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#1e1e1e">
+<table class=3D"Footer" style=3D"width: 600px; text-align: center; padding:=
+ 5px;" align=3D"center">
+<tbody>
+<tr>
+<td class=3D"S-text" style=3D"text-align: left; color: #fff; font-size: 10p=
+x; padding: 5px 0px 6px 0px; font-family: 'Roboto', sans-serif;" align=3D"l=
+eft">27 Goswell Road, London EC1M 7GT.</td>
+<td class=3D"S-text" style=3D"text-align: right; color: #fff; font-size: 10=
+px; padding: 5px 0px 6px 0px; font-family: 'Roboto', sans-serif;" align=3D"=
+right">=C2=A9isango 2016</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img height=3D'0' width=3D'0' alt=3D'' src=3D'http://t.hello.isango.com/r/=
+=3Fid=3Dh25ba8e2,29c232d,1'/></body>
+</html>
+
+------=_NextPart_848_1521522E.1521522E--
+

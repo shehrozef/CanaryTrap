@@ -1,0 +1,1539 @@
+Return-Path: <isango@hello.isango.com>
+X-Original-To: mailarchiveuser@localhost
+Delivered-To: mailarchiveuser@localhost
+Received: from r49.hello.isango.com (r49.hello.isango.com [66.235.130.49])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by vandustech.com (Postfix) with ESMTPS id 4B7434B3E5
+	for <stegmeier-pyer@vandustech.com>; Wed, 29 May 2019 09:32:46 +0000 (UTC)
+Authentication-Results: vandustech.com;
+	dkim=pass (1024-bit key; unprotected) header.d=hello.isango.com header.i=@hello.isango.com header.b="SWWD7r5g";
+	dkim-atps=neutral
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hello.isango.com;
+	s=neolane; t=1559122346;
+	bh=1I5CLYtzOH8xPsZSLfOxEoDYciawzivWex43UDRDsxc=;
+	h=From:Date:Subject:To:MIME-Version:Message-ID:Content-Type;
+	b=SWWD7r5g3tCPaWKB4rjugsySH4BreqyZ2d4FQG03bX+1dKIilNevakwV1S5arY7KW
+	 PCe+uwtSWsClvtEZvwNM5ewqmckP4/i92Usk3O1AQ0ThnmsKqG+y/fGIVuBMhYGLQG
+	 eYHHzkfrq4EEoK5e4vks3jBzTy1ksrCxHZ4BQK5U=
+Received: from [52.77.51.86] ([52.77.51.86:26806] helo=r49.hello.isango.com)
+	by momentum03.sin2.cpt.adobe.net (envelope-from <isango@hello.isango.com>)
+	(ecelerity 4.2.31.59853 r(Core:4.2.31.1)) with ESMTP
+	id A6/0F-03253-AA15EEC5; Wed, 29 May 2019 02:32:26 -0700
+From: "isango! Weekly Offers" <offers@hello.isango.com>
+Date: Wed, 29 May 2019 17:32:40 +0800
+Subject: =?utf-8?B?SGV5IFNoaWthbWFydSwgZ2V0IHlvdXIgc3VtbWVyIG9mIGNyaQ==?=
+ =?utf-8?B?Y2tldCBzb3J0ZWQgbm93ISDwn4+P?=
+To: <stegmeier-pyer@vandustech.com>
+Reply-To: "isango!" <offers@hello.isango.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 7.0.0.10522
+Message-ID: <AC700000000023FD17902752723isango_mkt_prod1@hello.isango.com>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_761_D356042A.D356042A"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_761_D356042A.D356042A
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+isango
+
+Hey Travelers,
+
+Looking for some travel inspiration, a place to visit, an activity to do? Something fun perhaps like a gondola ride or a night visit to a zoo? Maybe a Miami bus tour or the dazzling sites of Paris or Rome? Breathtaking views or a riverboat cruise, there's going to be something to suit you.
+
+Our top-sellers are currently on discount, so now is your chance to get a bargain and ensure you have plenty of stories to tell from your next trip. Don't delay, get booking today!
+
+Happy travels!
+Experience the WORLD with us!
+
+Classic Venice Gondola Ride
+A classic ride along the canals to unlock the secrets of this fascinating town. Head through the labyrinth of twisting canals to appreciate the charms of Venice.
+Book Now >
+
+Singapore Night Safari with Tram Access
+Dare to enter the jungle after dark? Come up close to lions and tigers and creatures of the night? You can, at the world's first dedicated night zoo. Worth investigating.
+Book Now >
+
+London Eye and Tower of London
+A super saver combo – ride the eye and visit the tower. From breathtaking views to sparkling jewels, the perfect tour of London.
+Book Now >
+
+Miami Hop-On, Hop-Off and Optional Biscayne Bay Cruise
+Miami's bus tour is calling – it's got 20 stops, with fantastic photo locations. And you have the opportunity to upgrade for a Biscayne Bay Cruise.
+Book Now >
+
+Paris Hop-On, Hop-Off Tour
+Tour de Paris, for that's what you'll get. With free walking tours and options to add in a cruise or a dazzling light display. Well, it's a kind of Paris magic.
+Book Now >
+
+Rome Hop-On, Hop-Off Tour
+Rome wasn't built in a day, and it's not hard to see why! Explore and discover the city, marvel at the attractions and hop-off when you choose. Flexible fun in the Roman sun.
+Book Now >
+
+Alice Springs Sightseeing with Transfers
+It's the perfect introduction to Australia's red centre. Explore the attractions, and enjoy it all in the comfort of an air-conditioned vehicle. Call it a red hot tour with more.
+Book Now >
+
+Prague By Night and Dinner Cruise
+There's magic happening at night on the streets of Prague. Watch the city glow as you cruise down the river. Eat, drink and be merry.
+Book Now >
+
+Barcelona Hop-On, Hop-Off With Sagrada Familia
+You're on the express highway to the Sagrada Familia. Beat the crowds, see the sites and hop-on and off where you please.
+Book Now >
+
+Perth and Kings Park Hop-On, Hop-Off
+Tour, discover, shop and uncover. So take the bus, it's a lot less fuss as you'll get to see the best of Perth. Kings Park to Swan River, Perth will deliver.
+Book Now >
+
+Los Angeles and Hollywood Hop-On, Hop-Off
+Enjoy the sights, and all the LA delights on a hop-on-hop-off bus. With options to choose, you've got nothing to lose in the city of angels.
+Book Now >
+
+Milan Pass: La Scala Museum, Duomo Terraces and More!
+You've got two days, so don't delay there's plenty to see and do. From museums to galleries, meals deals to bus tours, you'll be sure to get value from your card.
+Book Now >
+
+Amsterdam Canal Cruise and Dinner
+A canal cruise with dinner, sizzling appetizers as a beginner. It's the perfect way to see Amsterdam today. Romantic with plenty to consider.
+Book Now >
+
+Berlin TV Tower Observation Deck
+You're heading up high into the Berlin sky for an unparalleled view. Skip-the-line, so you ensure you have a good time observing the city from the tower.
+Book Now >
+
+San Francisco Mega Pass
+It's a mega pass that will ensure you see the best of the city. With a guide to tell stories and attractions to see. Consider San Francisco covered.
+Book Now >
+
+Adults go at Child Prices
+
+Disneyland® Paris 1 Day Ticket 1 or 2 Parks
+Disneyland® Paris – 2 x 1 Day Hopper Tickets
+
+Limited Period Offer
+
+Universal Studios Singapore™ Entrance Ticket
+Valid up to 7th June 2019
+
+S.E.A. Aquarium Singapore Entrance Ticket
+Valid up to 20th June 2019
+
+Universal Studios Singapore™ & S.E.A. Aquarium Tickets
+Valid up to 7th June 2019
+
+Discover more epic adventures and activities to suit all interests on isango! now.
+
+Contact: support@isango.com | +44 203 355 1240 (INTERNATIONAL)
+0124 4148173 (IND) | 1-866 682 9791 (CANADA) | 0034 871 180 005 (SPAIN) 
+1-866 663 7017 (USA) | 089 6667 9194 (GERMANY) | 0203 355 1240 (UK)
+1-800 008 739 (AUSTRALIA)
+
+*Please note that prices and availability were accurate at the time of publication of this email, but are subject to change. To ensure future newsletters are delivered straight to your inbox, please add newsletter@hello.isango.com to your address book.
+
+27 Goswell Road, London EC1M 7GT. ©isango 2016
+
+------=_NextPart_761_D356042A.D356042A
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<link href=3D"https://fonts.googleapis.com/css=3Ffamily=3DRoboto" rel=3D"st=
+ylesheet">
+<title>eNewsletter</title>
+<style type=3D"text/css">
+@media (max-width:600px) {
+=2EContainer {
+=09width: 99% !important;
+}
+=2EPadding {
+=09width: 15px !important;
+}
+=2Eborder {
+=09width: 100% !important;
+=09text-align: center;
+}
+=2Eproduct-1 {
+=09width: 100% !important;
+=09height: auto;
+=09text-align: center !important;
+=09align-content: center;
+}
+=2ESocial {
+=09width: 23px !important;
+=09height: auto !important;
+}
+=2Elogo-is {
+=09width: 120px
+}
+=2ES-text {
+=09font-size: 9px !important;
+=09color: #88888f;
+}
+=2EPara {
+=09font-size: 14px !important;
+}
+=2EHead {
+=09font-size: 18px !important;
+}
+=2ECTA {
+=09width: 130px !important;
+=09padding: 2px 0px 10px 0px;
+}
+=2EFooter {
+=09width: 92% !important;
+}
+}
+
+@media (max-width:480px) {
+=2EContainer {
+=09width: 99% !important;
+}
+=09.Force-col {
+=09display: block;
+=09width: 100% !important;
+border: none !important;
+}
+=2Elogo-is {
+=09width: 100px !important;
+}
+=2ECTA {
+=09width: 130px !important;
+=09padding: 2px 0px 10px 0px;
+}
+=2Eproduct-1 {
+=09width: 100% !important;
+=09height: auto;
+=09text-align: center !important;
+=09align-content: center;
+}
+=2EPara {
+=09font-size: 13px !important;
+}
+=2EHead {
+=09font-size: 17px !important;
+}
+=2ES-text {
+=09font-size: 11px !important;
+=09color: #fff;
+}
+=2ESocial {
+=09width: 30px !important;
+=09height: auto !important;
+}
+=09@media (max-width:320px) {
+=2EContainer {
+=09width: 99% !important;
+}
+=09.Force-col {
+=09display: block;
+=09width: 100% !important;
+border: none !important;
+}
+=2Elogo-is {
+=09width: 100px !important;
+}
+=2ECTA {
+=09width: 130px !important;
+=09padding: 2px 0px 10px 0px;
+}
+=2Eproduct-1 {
+=09width: 100% !important;
+=09height: auto;
+=09text-align: center !important;
+=09align-content: center;
+=09text-align: 
+}
+=2EPara {
+=09font-size: 13px !important;
+}
+=2EHead {
+=09font-size: 17px !important;
+}
+=2ES-text {
+=09font-size: 11px !important;
+=09color: #fff;
+}
+=2ESocial {
+=09width: 30px !important;
+=09height: auto !important;
+}
+}
+</style>
+</head>
+<body style=3D"-webkit-text-size-adjust: none; -ms-text-size-adjust: none; =
+margin: 0; padding: 0;" bgcolor=3D"#ffffff" class=3D"">
+<table style=3D"border-collapse: collapse; border-spacing: 0px; width: 100%=
+;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td>
+<table class=3D"Container" style=3D"width: 600px;" cellspacing=3D"0" cellpa=
+dding=3D"0" border=3D"0" bgcolor=3D"ffffff" align=3D"center"><!--fixed gap-=
+->
+<tbody>
+<tr>
+<td style=3D"font-size: 0px; color: #ffffff;">All set for the Cricket World=
+ Cup=3F Bat against ball, wickets, and all the drama sport brings. Our late=
+st offers give you a chance to tour the UK and enjoy the game - a perfect p=
+artnership.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table style=3D"width: 100%;" cellspacing=3D"0" cellpadding=3D"0" border=3D=
+"0">
+<tbody>
+<tr>
+<td style=3D"font-size: 10px; text-align: center; color: #888; font-family:=
+ 'Roboto', sans-serif; padding-top: 5px; padding-bottom: 5px;">If you have =
+trouble reading this message, <a href=3D"http://t.hello.isango.com/r/=3Fid=
+=3Dh23fd179,2752723,2752725&p1=3D29052019" title=3D"Web-Version" target=3D"=
+_blank" style=3D"font-weight: bold; color: #888;" >view in web</a></td>
+</tr>
+<tr>
+<td align=3D"center"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd17=
+9,2752723,2752726&p1=3D29052019" title=3D"Homepage" target=3D"_blank" ><img=
+ src=3D"http://www.isango.com/newsletters/2016/Newsletter/Fixed/isango-logo=
+.png" alt=3D"isango-Logo" class=3D"logo-is" title=3D"Homepage" style=3D"pad=
+ding: 5px;" width=3D"100" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"Container" style=3D"border-collapse: collapse; border-spaci=
+ng: 0px; width: 600px;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" al=
+ign=3D"center">
+<tbody>
+<tr>
+<td><!--Hero-->
+<table style=3D"margin-top: 5px;" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-align: center;"><a href=3D"http://t.hello.isango.com/r/=
+=3Fid=3Dh23fd179,2752723,2752727&p1=3D29052019" title=3D"Homepage" target=
+=3D"_blank" ><img src=3D"http://www.isango.com/newsletters/2019/Newsletter/=
+29-May/hero.png" alt=3D"Hero Image" width=3D"600" height=3D"auto" /></a></t=
+d>
+</tr>
+</tbody>
+</table>
+<!--Hero--> <!--intro text-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff">
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; text-align: center; color: =
+#333333; font-family: 'Roboto', sans-serif; width: 100%;" align=3D"center">=
+<!--Product Left-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"text-align: center; font-family: 'Roboto', sans=
+-serif; line-height: 150%; color: #333333; padding: 8px;" data-nl-format=3D=
+"datetime">Hey Shikamaru, <br /><br />It's time for cricket and hopefully a=
+ load of wickets, howzat you'll hear them cry! A googly, a lolly, is there =
+a cricketing term called shopping trolley=3F Welcome to a summer of top spo=
+rt. Plan your visit, see some sights and get plenty of highlights on the pi=
+tch and in the host venues. Support your team and enjoy the scene; a summer=
+ of cricket is just the ticket.<br /> <br />This summer the UK hosts the Cr=
+icket World Cup, and our latest offers give you the chance to visit and exp=
+lore the host cities and venues. From London to Cardiff and Manchester, it'=
+s the perfect way to enjoy your stay.<br /> <br /> Happy =E2=80=98Cricket=
+=E2=80=99 World Cupping! <br /><em>Experience the WORLD with us!</em></td>
+
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--intro text--> <!--T1-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #ececec; opacity: 0.50;" /><img src=3D"http://www.i=
+sango.com/newsletters/2019/Newsletter/29-May/icon1.png" alt=3D"Image" style=
+=3D"padding: 5px;" width=3D"40" height=3D"auto" /></td>
+</tr>
+<tr>
+<td class=3D"Head" style=3D"font-size: 18px; font-weight: Bold; text-transf=
+orm: uppercase; color: #232882; text-decoration: none;">Stadium tour</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">Tea in the pavi=
+lion, oh that=E2=80=99s so cricket. Sounds perfect. Be in awe with a stadiu=
+m tour at one of London top sporting venues.</td>
+</tr>
+</tbody>
+</table>
+<!--T1--> <!--A1-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752728=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"http://www.isango.com/newsletters/2019/Newslette=
+r/29-May/B1.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" height=3D"=
+auto" /></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752729=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 14px; text-deco=
+ration: none;" >Kia Oval Ground Tour &amp; Tea in the Pavilion</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A1--> <!--A2->
+        <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D=
+"0">
+            <tbody>
+          
+            <tr>
+          
+          <td>
+            <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpaddin=
+g=3D"0" bgcolor=3D"#fff">
+              
+                <tbody>
+              
+                <tr>
+              
+              <td><table width=3D"100%" border=3D"0" cellspacing=3D"0" cell=
+padding=3D"0" style=3D"border-collapse:collapse;">
+                  <tbody>
+                    <tr>
+                      <td><hr style=3D"color:#ECECEC; opacity:0.50;"><table=
+ style=3D"width: 100%;">
+                          <tbody>
+                            <tr>
+                             <td><table style=3D"width: 100%;">
+                          <tbody>
+                            <tr>
+                              <td class=3D"Force-col" valign=3D"middle"><ta=
+ble class=3D"Para" align=3D"center" style=3D"text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif; width: 100%;">
+                                  <tbody>
+                                   <tr>
+                                      <td><a href=3D"https://www.isango.com=
+/manchester/tour-old-trafford-stadium-manchester-united-museum_32728=3Futm_=
+source=3DOffers_NL&utm_medium=3Demail&utm_campaign=3D29052019_isango_offers=
+_May_5_A2" title=3D"Book Now" target=3D"_blank" style=3D"text-decoration: i=
+nherit;"><img src=3D"http://www.isango.com/newsletters/2019/Newsletter/29-M=
+ay/B2.jpg" alt=3D"Image" width=3D"600" height=3D"auto" class=3D"product-1" =
+/></a></td>
+                                    </tr>
+                                    <tr>
+                                      <td><a href=3D"https://www.isango.com=
+/manchester/tour-old-trafford-stadium-manchester-united-museum_32728=3Futm_=
+source=3DOffers_NL&utm_medium=3Demail&utm_campaign=3D29052019_isango_offers=
+_May_5_H2" title=3D"Book Now" target=3D"_blank" style=3D"text-transform: up=
+percase; font-weight: Bold; color: #333333; font-size: 14px; text-decoratio=
+n: none;">Unforgettable Tour of Old Trafford Stadium &amp; Manchester Unite=
+d Museum</a></td>
+                                    </tr>
+                                  </tbody>
+=09=09=09=09=09=09  </table></td>
+                              </tr>
+                          </tbody>
+                        </table></td>
+                    </tr>
+                  
+                    </tbody>
+                  
+                </table></td>
+                </tr>
+              
+                </tbody>
+              
+            </table></td>
+            </tr>
+          
+            </tbody>
+          
+        </table>
+        <!-A2--> <!--T2-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #ececec; opacity: 0.50;" /><img src=3D"http://www.i=
+sango.com/newsletters/2019/Newsletter/29-May/icon2.png" alt=3D"Image" style=
+=3D"padding: 5px;" width=3D"80" height=3D"auto" /></td>
+</tr>
+<tr>
+<td class=3D"Head"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,=
+2752723,275272a&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=
+=3D"font-size: 18px; font-weight: Bold; text-transform: uppercase; color: #=
+232882; text-decoration: none;" >London attractions</a></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">Take a day away=
+ from the bat and ball, ride the eye or take a wax-work tour. Visit Stonehe=
+nge or maybe Windsor castle; the choice is yours.</td>
+</tr>
+</tbody>
+</table>
+<!--T2--> <!--A3-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #f6f6f6; opacity: 0.50;" />
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td align=3D"left"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,=
+2752723,275272b&p1=3D29052019" title=3D"Book Now" target=3D"_blank" ><img s=
+rc=3D"http://www.isango.com/newsletters/2019/Newsletter/29-May/B3.jpg" alt=
+=3D"Image" class=3D"product-1" width=3D"300" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"Force-col" valign=3D"middle" align=3D"left">
+<table class=3D"Para" style=3D"text-align: center; color: #333333; font-fam=
+ily: 'Roboto', sans-serif; width: 100%;" align=3D"center"><!--Product Right=
+-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275272c=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 16px; text-deco=
+ration: none;" >London Eye</a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275272d=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"color: #33333=
+3; font-size: 16px;" >The Coca Cola London Eye Tickets</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A3--> <!--A4-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #f6f6f6; opacity: 0.50;" />
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"middle" align=3D"right">
+<table class=3D"Para" style=3D"text-align: center; color: #333333; font-fam=
+ily: 'Roboto', sans-serif; width: 100%;" align=3D"center"><!--Product Right=
+-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275272e=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 16px; text-deco=
+ration: none;" >Madame Tussauds</a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275272f=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"color: #33333=
+3; font-size: 16px;" >Madame Tussauds Tickets, London</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td align=3D"right"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179=
+,2752723,2752730&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=
+=3D"text-decoration: inherit;" ><img src=3D"http://www.isango.com/newslette=
+rs/2019/Newsletter/29-May/B4.jpg" alt=3D"Image" class=3D"product-1" width=
+=3D"300" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A4--> <!--A5-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #f6f6f6; opacity: 0.50;" />
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td align=3D"left"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,=
+2752723,2752731&p1=3D29052019" title=3D"Book Now" target=3D"_blank" ><img s=
+rc=3D"http://www.isango.com/newsletters/2019/Newsletter/29-May/B5.jpg" alt=
+=3D"Image" class=3D"product-1" width=3D"300" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"Force-col" valign=3D"middle" align=3D"left">
+<table class=3D"Para" style=3D"text-align: center; color: #333333; font-fam=
+ily: 'Roboto', sans-serif; width: 100%;" align=3D"center"><!--Product Right=
+-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752732=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 16px; text-deco=
+ration: none;" >Windsor Castle</a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752733=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"color: #33333=
+3; font-size: 16px;" >Windsor Castle Ticket</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A5--> <!--A6-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #f6f6f6; opacity: 0.50;" />
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"middle" align=3D"right">
+<table class=3D"Para" style=3D"text-align: center; color: #333333; font-fam=
+ily: 'Roboto', sans-serif; width: 100%;" align=3D"center"><!--Product Right=
+-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752734=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 16px; text-deco=
+ration: none;" >Stonehenge</a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752735=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"color: #33333=
+3; font-size: 16px;" >Stonehenge Express Morning or Afternoon tour from Lon=
+don</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+<td class=3D"Force-col" valign=3D"top">
+<table class=3D"Para" style=3D"font-size: 14px; font-weight: Bold; text-ali=
+gn: center; color: #333333; font-family: 'Roboto', sans-serif; width: 100%;=
+" align=3D"center"><!--Product Right-->
+<tbody>
+<tr>
+<td align=3D"right"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179=
+,2752723,2752736&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=
+=3D"text-decoration: inherit;" ><img src=3D"http://www.isango.com/newslette=
+rs/2019/Newsletter/29-May/B6.jpg" alt=3D"Image" class=3D"product-1" width=
+=3D"300" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A6--> <!--T3-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #ececec; opacity: 0.50;" /><img src=3D"http://www.i=
+sango.com/newsletters/2019/Newsletter/29-May/icon3.png" alt=3D"Image" style=
+=3D"padding: 5px;" width=3D"50" height=3D"auto" /></td>
+</tr>
+<tr>
+<td class=3D"Head" style=3D"font-size: 18px; font-weight: Bold; text-transf=
+orm: uppercase; color: #232882;">Unique experiences</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">There's more to=
+ London than meets the eye! Pies, pints or magical tours=3F Street food and=
+ Yonda car adventures. Time to add a unique twist to your visit.</td>
+</tr>
+</tbody>
+</table>
+<!--T3--> <!--A7-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"middle">
+<table class=3D"Para" style=3D"text-align: center; color: #333333; font-fam=
+ily: 'Roboto', sans-serif; width: 100%;" align=3D"center"><!--Product Right=
+-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752737=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"http://www.isango.com/newsletters/2019/Newslette=
+r/29-May/B7.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" height=3D"=
+auto" /></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752738=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 14px; text-deco=
+ration: none;" >Uncovering The Best of London=E2=80=99s Street Food. A Gour=
+met Food Experience</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A7--> <!--A8-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"middle">
+<table class=3D"Para" style=3D"text-align: center; color: #333333; font-fam=
+ily: 'Roboto', sans-serif; width: 100%;" align=3D"center"><!--Product Right=
+-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752739=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"http://www.isango.com/newsletters/2019/Newslette=
+r/29-May/B8.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" height=3D"=
+auto" /></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275273a=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 14px; text-deco=
+ration: none;" >Britain=E2=80=99s Got Talents: A Chipper Journey Through Lo=
+ndon=E2=80=99s Landmarks</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A8--> <!--A9-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #ececec; opacity: 0.50;" />
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"middle">
+<table class=3D"Para" style=3D"text-align: center; color: #333333; font-fam=
+ily: 'Roboto', sans-serif; width: 100%;" align=3D"center"><!--Product Right=
+-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275273b=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"http://www.isango.com/newsletters/2019/Newslette=
+r/29-May/B9.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" height=3D"=
+auto" /></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275273c=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 14px; text-deco=
+ration: none;" >Go Yonda! London Sightseeing Private Tour in a Talking Car<=
+/a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A9--> <!--A10-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #ececec; opacity: 0.50;" />
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"middle">
+<table class=3D"Para" style=3D"text-align: center; color: #333333; font-fam=
+ily: 'Roboto', sans-serif; width: 100%;" align=3D"center"><!--Product Right=
+-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275273d=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"http://www.isango.com/newsletters/2019/Newslette=
+r/29-May/B10.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" height=3D=
+"auto" /></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275273e=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 14px; text-deco=
+ration: none;" >Potty for Potter! =E2=80=93 The Harry Potter Taxi Tour</a><=
+/td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A10--> <!--T4-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #333333; font-family: 'Roboto', =
+sans-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cell=
+padding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #ececec; opacity: 0.50;" /><img src=3D"http://www.i=
+sango.com/newsletters/2019/Newsletter/29-May/icon4.png" alt=3D"Image" style=
+=3D"padding: 5px;" width=3D"40" height=3D"auto" /></td>
+</tr>
+<tr>
+<td class=3D"Head" style=3D"font-size: 18px; font-weight: Bold; text-transf=
+orm: uppercase; color: #232882;">Beyond the London boundary!</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #33=
+3333; font-family: 'Roboto', sans-serif;" valign=3D"middle">They are both h=
+osts, with much to boast, so see the cricket and take a hop-on hop-off bus =
+tour, where you'll get to see a whole lot more.</td>
+</tr>
+</tbody>
+</table>
+<!--T4--> <!--A11-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"middle">
+<table class=3D"Para" style=3D"text-align: center; color: #333333; font-fam=
+ily: 'Roboto', sans-serif; width: 100%;" align=3D"center"><!--Product Right=
+-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275273f=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"http://www.isango.com/newsletters/2019/Newslette=
+r/29-May/B11.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" height=3D=
+"auto" /></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752740=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 14px; text-deco=
+ration: none;" >Sightseeing Manchester Hop-On Hop-Off Tour</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A11--> <!--A12-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff"><!--Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #ececec; opacity: 0.50;" />
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td>
+<table style=3D"width: 100%;">
+<tbody>
+<tr>
+<td class=3D"Force-col" valign=3D"middle">
+<table class=3D"Para" style=3D"text-align: center; color: #333333; font-fam=
+ily: 'Roboto', sans-serif; width: 100%;" align=3D"center"><!--Product Right=
+-->
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752741=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-decorati=
+on: inherit;" ><img src=3D"http://www.isango.com/newsletters/2019/Newslette=
+r/29-May/B12.jpg" alt=3D"Image" class=3D"product-1" width=3D"600" height=3D=
+"auto" /></a></td>
+</tr>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752742=
+&p1=3D29052019" title=3D"Book Now" target=3D"_blank" style=3D"text-transfor=
+m: uppercase; font-weight: Bold; color: #333333; font-size: 14px; text-deco=
+ration: none;" >Cardiff Hop-On Hop-Off Tour</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A12--> <!--Feefo-->
+<table style=3D"margin-top: 5px;" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td style=3D"text-align: center;"><a href=3D"http://t.hello.isango.com/r/=
+=3Fid=3Dh23fd179,2752723,2752743" title=3D"Homepage" target=3D"_blank" styl=
+e=3D"display: inline-block;" ><img src=3D"http://www.isango.com/newsletters=
+/2017/CRM/CrossSell/Dubai/review.png" alt=3D"Hero Image" class=3D"product-1=
+" width=3D"600" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+<!--Feefo--> <!--Guidebook-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Product container-->
+<tbody>
+<tr>
+<td>
+<table style=3D"border-collapse: collapse;" width=3D"100%" cellspacing=3D"0=
+" cellpadding=3D"0" border=3D"0"><!--Product Row-->
+<tbody>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 13px; font-weight: normal; text-alig=
+n: center; color: #333333; font-family: 'Roboto', sans-serif; line-height: =
+150%; padding: 0px 20px 10px 20px;"><hr style=3D"color: #f6f6f6; opacity: 0=
+.50;" />Discover more epic adventures and activities to suit all interests =
+on <a style=3D"color: #555; text-decoration: none; font-weight: bold;" href=
+=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752744&p1=3D29052=
+019" title=3D"isango! Homepage" target=3D"_blank" >isango!</a> now.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--Guidebook--></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#ffffff" align=3D"center"><!--Social Bar Bottom-->
+<tbody>
+<tr>
+<td>
+<table style=3D"padding: 5px;" width=3D"300" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752745=
+&p1=3D29052019" title=3D"Facebook" target=3D"_blank" ><img src=3D"http://ww=
+w.isango.com/newsletters/2016/Newsletter/Fixed/facebook.png" alt=3D"FB" cla=
+ss=3D"Social" title=3D"Facebook" width=3D"30" height=3D"auto" /></a></td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752746=
+&p1=3D29052019" title=3D"Twitter" target=3D"_blank" ><img src=3D"http://www=
+.isango.com/newsletters/2016/Newsletter/Fixed/twitter.png" alt=3D"TW" class=
+=3D"Social" title=3D"Twitter" width=3D"30" height=3D"auto" /></a></td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752747=
+&p1=3D29052019" title=3D"Instagram" target=3D"_blank" ><img src=3D"http://w=
+ww.isango.com/newsletters/2016/Newsletter/Fixed/instagram.png" alt=3D"IG" c=
+lass=3D"Social" title=3D"Instagram" width=3D"30" height=3D"auto" /></a></td=
+>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752748=
+&p1=3D29052019" title=3D"Pinterest" target=3D"_blank" ><img src=3D"http://w=
+ww.isango.com/newsletters/2016/Newsletter/Fixed/pintrest.png" alt=3D"PIN" c=
+lass=3D"Social" title=3D"Pinterest" width=3D"30" height=3D"auto" /></a></td=
+>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,2752749=
+&p1=3D29052019" title=3D"Youtube" target=3D"_blank" ><img src=3D"http://www=
+.isango.com/newsletters/2016/Newsletter/Fixed/youtube.png" alt=3D"YOU" clas=
+s=3D"Social" title=3D"Youtube" width=3D"30" height=3D"auto" /></a></td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275274a=
+&p1=3D29052019" title=3D"Youtube" target=3D"_blank" ><img src=3D"http://www=
+.isango.com/newsletters/2016/Newsletter/Fixed/bloglovin.png" alt=3D"BLOGLOV=
+IN" class=3D"Social" title=3D"Bloglovin" width=3D"30" height=3D"auto" /></a=
+></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"Container" style=3D"border-collapse: collapse; border-spaci=
+ng: 0px; width: 600px; margin-top: 5px;" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td>
+<table style=3D"padding: 5px 0px 0px 0px; border-collapse: collapse; width:=
+ 100%; text-align: center;" bgcolor=3D"#f9f9f9" align=3D"center"><!--footer=
+-->
+<tbody>
+<tr>
+<td>
+<table class=3D"Footer" style=3D"width: 600px; text-align: center; padding:=
+ 5px;" bgcolor=3D"#f9f9f9" align=3D"center">
+<tbody>
+<tr>
+<td colspan=3D"3" style=3D"text-align: left; font-size: 14px; padding: 5px =
+0px 0px 0px; font-family: 'Roboto', sans-serif; color: #434a54;" align=3D"l=
+eft"><img src=3D"http://www.isango.com/newsletters/2016/Newsletter/Fixed/Ca=
+ll.png" alt=3D"Call-icon" style=3D"vertical-align: bottom;" title=3D"Call-i=
+con" width=3D"15" height=3D"15" />=C2=A0Contact: <a href=3D"mailto:support@=
+isango.com" title=3D"Support" target=3D"_blank" style=3D"color: #25609e; te=
+xt-decoration: none;"><strong>support@isango.com</strong></a> | <a href=3D"=
+tel:+442033551240" style=3D"color: #25609e; text-decoration: none;"><strong=
+>+44=C2=A0203=C2=A0355=C2=A01240</strong></a>=C2=A0(INTERNATIONAL)</td>
+</tr>
+<tr>
+<td style=3D"text-align: left; font-size: 11px; padding: 5px 0px 0px 0px; f=
+ont-family: 'Roboto', sans-serif; color: #434a54;" valign=3D"top" align=3D"=
+left"><a href=3D"tel:+01244148173" style=3D"color: #25609e; text-decoration=
+: none;"><strong>0124=C2=A04148173</strong></a>=C2=A0(IND) |<br /><a href=
+=3D"tel:+18666829791" style=3D"color: #25609e; text-decoration: none;"><str=
+ong>1-866 682 9791</strong></a> (CANADA) |<br /><a href=3D"tel:+00348711800=
+05" style=3D"color: #25609e; text-decoration: none;"><strong>0034 871 180 0=
+05</strong></a>=C2=A0(SPAIN)</td>
+<td style=3D"text-align: left; font-size: 11px; padding: 5px 0px 0px 0px; f=
+ont-family: 'Roboto', sans-serif; color: #434a54;" valign=3D"top" align=3D"=
+left"><a href=3D"tel:+18666637017" style=3D"color: #25609e; text-decoration=
+: none;"><strong>1-866=C2=A0663=C2=A07017</strong></a>=C2=A0(USA) |<br /><a=
+ href=3D"tel:+08966679194" style=3D"color: #25609e; text-decoration: none;"=
+><strong>089 6667 9194 </strong></a>(GERMANY) |</td>
+<td style=3D"text-align: left; font-size: 11px; padding: 5px 0px 0px 0px; f=
+ont-family: 'Roboto', sans-serif; color: #434a54;" valign=3D"top" align=3D"=
+left"><a href=3D"tel:+02033551240" style=3D"color: #25609e; text-decoration=
+: none;"><strong>0203=C2=A0355=C2=A01240</strong></a>=C2=A0(UK)<br /><a hre=
+f=3D"tel:+1800008739" style=3D"color: #25609e; text-decoration: none;"><str=
+ong>1-800 008 739</strong></a>=C2=A0(AUSTRALIA)</td>
+</tr>
+<tr>
+<td colspan=3D"3" style=3D"text-align: left; font-size: 10px; padding: 5px =
+0px 0px 0px; font-family: 'Roboto', sans-serif; color: #434a54;" align=3D"l=
+eft"><hr style=3D"color: #f4f4f4;" />*Please note that prices and availabil=
+ity were accurate at the time of publication of this email, but are subject=
+ to change. To ensure future newsletters are delivered straight to your inb=
+ox, please add <strong>newsletter@hello.isango.com</strong> to your address=
+ book.<br /> <font style=3D"font-family: Verdana, Arial; font-size: 10px"><=
+p>
+You are receiving this message because you have been in contact with ISANGO=
+ LIMITED or an affiliate. If you would like to stop receiving messages from=
+ ISANGO LIMITED
+<a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh23fd179,2752723,275274b&p1=
+=3D%400NXVXFQ2du5itCsUw5ej9KNMkIyGy2iwAW_vGCYEfQQyK-BtzteLnoIuMcTWDznpc5dbv=
+eK-FfxpN70xpuk9mUPmt1A" _label=3D"Opt-out link" _type=3D"optout" >click her=
+e</a>.
+</p>
+</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#1e1e1e">
+<table class=3D"Footer" style=3D"width: 600px; text-align: center; padding:=
+ 5px;" align=3D"center">
+<tbody>
+<tr>
+<td class=3D"S-text" style=3D"text-align: left; color: #fff; font-size: 10p=
+x; padding: 5px 0px 6px 0px; font-family: 'Roboto', sans-serif;" align=3D"l=
+eft">27 Goswell Road, London EC1M 7GT.</td>
+<td class=3D"S-text" style=3D"text-align: right; color: #fff; font-size: 10=
+px; padding: 5px 0px 6px 0px; font-family: 'Roboto', sans-serif;" align=3D"=
+right">=C2=A9isango 2016</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img height=3D'0' width=3D'0' alt=3D'' src=3D'http://t.hello.isango.com/r/=
+=3Fid=3Dh23fd179,2752723,1'/></body>
+</html>
+
+------=_NextPart_761_D356042A.D356042A--
+

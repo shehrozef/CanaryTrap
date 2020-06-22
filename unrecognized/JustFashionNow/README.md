@@ -1,0 +1,1 @@
+We received several unrelated emails from two unknown senders ("noracora.com", "homegarden.com") on the email account of the honeytoken shared with ''JustFashionNow'' app. These emails are promoting products from the unknown senders' website.

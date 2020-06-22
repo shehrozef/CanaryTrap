@@ -1,0 +1,1 @@
+We received several unrelated emails from a disclosed sender ("dotproperty.co.th") on the email account of the honeytoken shared with ''Thailand Property Login'' app. This disclosed sender "dotproperty.co.th" is a partner website of ''Thailand Property Login'' app. Most of the received emails contain links to different promotions and products from the disclosed sender's website.

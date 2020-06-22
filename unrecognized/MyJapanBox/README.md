@@ -1,0 +1,1 @@
+We received an unrelated email from an unknown sender "hellojapan.shop" on the email account of the honeytoken shared with ''MyJapanBox'' app. This email is promoting products from the unknown sender's website.

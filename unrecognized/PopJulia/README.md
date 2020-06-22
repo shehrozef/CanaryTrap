@@ -1,0 +1,1 @@
+We received an unrelated email from an unknown sender("noracora.com") on the email account of the honeytoken shared with ''PopJulia'' app. This emails is promoting products from the unknown sender's website. 

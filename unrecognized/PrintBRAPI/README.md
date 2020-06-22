@@ -1,0 +1,1 @@
+We received a ransomware scam email from an unknown sender on the email account of the honeytoken shared with ''Printi BR API'' app. This email asks for ransom through bitcoin falsely claiming that the victim's browsing history has been compromised. We also find anecdotal evidence of the potential breaches of the app's website [here](https://vigilante.pw/).

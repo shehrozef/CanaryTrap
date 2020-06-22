@@ -1,0 +1,1 @@
+We received several unrelated emails from a disclosed sender ("yuyucollection.com.sg") on the email account of the honeytoken shared with ''Alex's first app'' app. This disclosed sender "yuyucollection.com.sg" is a partner website of ''Alex's first app'' app. Most of the received emails contain links to different promotions and products from the disclosed sender's website.

@@ -1,0 +1,1 @@
+We received an unrelated email from a disclosed sender ("playkids.com") on the email account of the honeytoken shared with ''Leiturinha'' app. This disclosed sender "playkids.com" is a partner website of ''Leiturinha'' app. The received email is introduces disclosed sender's website and promote videos posted on their instagram page.

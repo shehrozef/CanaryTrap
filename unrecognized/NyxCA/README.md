@@ -1,0 +1,1 @@
+We received an unrelated email from an unknown sender on the email account of the honeytoken shared with ''Nyx CA	'' app. This email is promoting products from the unknown sender's website.

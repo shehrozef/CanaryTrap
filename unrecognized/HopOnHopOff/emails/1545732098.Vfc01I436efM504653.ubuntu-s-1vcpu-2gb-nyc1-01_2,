@@ -1,0 +1,544 @@
+Return-Path: <isango@hello.isango.com>
+X-Original-To: mailarchiveuser@localhost
+Delivered-To: mailarchiveuser@localhost
+Received: from r49.hello.isango.com (r49.hello.isango.com [66.235.130.49])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by ubuntu-s-1vcpu-2gb-nyc1-01 (Postfix) with ESMTPS id AD8DB408A6
+	for <stegmeier-pyer@vandustech.com>; Tue, 25 Dec 2018 10:01:37 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=hello.isango.com;
+	s=neolane; t=1545732081;
+	bh=4f3e6pRcN+Xyc6M+T7/5D5tGH+lLIXVcOKMvPIrXYr4=;
+	h=From:Date:Subject:To:MIME-Version:Message-ID:List-Unsubscribe:
+	 Content-Type;
+	b=ZlwDz5PLFFGe6nCvYqHfPL+Rt5DQxKsu5aI02H//D7zzNU5+gY40za1t8AdlZF/7h
+	 4RGr+ytKJHJ01VNVAZzlIIgDfZo8p9qRZqc1wgZAXL61UO52x9vUt+5+vfCosIkHfk
+	 D8jJafGUlOdsXe1S/lTTZa0J/alP96DCVqUuvtsc=
+Received: from [52.77.51.174] ([52.77.51.174:36379] helo=r49.hello.isango.com)
+	by momentum04.sin2.cpt.adobe.net (envelope-from <isango@hello.isango.com>)
+	(ecelerity 4.2.31.59853 r(Core:4.2.31.1)) with ESMTP
+	id F0/64-05953-1FFF12C5; Tue, 25 Dec 2018 02:01:21 -0800
+From: <newsletter@hello.isango.com>
+Date: Tue, 25 Dec 2018 18:01:31 +0800
+Subject: =?windows-1252?Q?Welcome_to=A0_Shikamaru?=
+To: <stegmeier-pyer@vandustech.com>
+Reply-To: "isango!" <no-reply@hello.isango.com>
+MIME-Version: 1.0
+X-mailer: nlserver, Build 7.0.0.10503
+Message-ID: <AC70000000001E9ABA901FD07D0isango_mkt_prod1@hello.isango.com>
+List-Unsubscribe: <http://m.hello.isango.com/lp/bl?pkey=%400NXVXFQ2du5itCsUw5ej9KNMkIyGy2iwAW_vGCYEfQQyK-BtzteLnoIuMcTWDznpc5dbveK-FfxpN70xpuk9mUPmt1A>
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_200_68346A58.68346A58"
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_200_68346A58.68346A58
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Having trouble with this email? View in browser
+isango-Logo
+
+Welcome Travellers!
+
+Thanks for registering with us. We have created an account for you to keep all your bookings in one place. You will now receive the latest tailored offers, inspiring articles and travel tips delivered straight to your inbox. You won't be disappointed...
+
+A LITTLE BIT ABOUT US
+By choosing to sign up with us, you have become part of the ultimate travel clan. Powered by our parent company isango!, we pride ourselves on offering the best tours and experiences around the world. Across our host of leisure brands, we cover more than 300 destinations and make for happy travellers the world over. So whether you're booking with our local activity or destination sites or with isango! Itself, we know you'll be impressed.
+
+JUST ONE MORE THING
+Introducing: The Guidebook
+Have you heard about our epic travel magazine yet? Born from our devotion to all things travel, and our desire to share the wanderlust love around, we bring you The Guidebook. Each day we're sharing our latest tidbits of locale travel info, destination inspiration, worldly wisdom and so much more, all perfectly packaged in one chic digital magazine.
+
+So, what are you waiting for? Your next adventure awaits, GET BOOKING!
+Happy travels!
+EXPLORE THE GUIDEBOOK
+
+Call-icon Contact: Email us | +44 203 355 1240
+*Please note that prices and availability were accurate at the time of publication of this email, but are subject to change. To ensure future newsletters are delivered straight to your inbox, please add newsletter@hello.isango.com to your address book.
+Unsubscription link
+
+FB TW G+ Instagram Pinterest YouTube Bloglovin'
+
+1st Floor (Central Working), 6-8 Bonhill Street, London, EC2A 4BX. © isango 2016
+
+------=_NextPart_200_68346A58.68346A58
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<meta name=3D"format-detection" content=3D"telephone=3Dno">
+<link href=3D"https://fonts.googleapis.com/css=3Ffamily=3DPlayfair+Display"=
+ rel=3D"stylesheet">
+<link href=3D"https://fonts.googleapis.com/css=3Ffamily=3DOpen+Sans|Playfai=
+r+Display" rel=3D"stylesheet">
+<title>eNewsletter</title>
+<style type=3D"text/css">
+@media (max-width:600px) {
+=2EContainer {
+=09width: 99% !important;
+}
+=2EPadding {
+=09width: 15px !important;
+}
+=2Eborder {
+=09width: 100% !important;
+=09text-align: center;
+}
+=2Eproduct-1 {
+=09width: 100% !important;
+=09height: auto;
+=09text-align: center !important;
+=09align-content: center;
+}
+=2ESocial {
+=09width: 23px !important;
+=09height: auto !important;
+}
+=2Elogo-is {
+=09width: 120px
+}
+=2ES-text {
+=09font-size: 9px !important;
+=09color: #88888f;
+}
+=2EPara {
+=09font-size: 14px !important;
+}
+=2EHead {
+=09font-size: 18px !important;
+}
+=2ECTA {
+=09width: 130px !important;
+=09padding: 2px 0px 10px 0px;
+}
+=2EFooter {
+=09width: 92% !important;
+}
+}
+
+@media (max-width:480px) {
+=2EContainer {
+=09width: 99% !important;
+}
+=09.Force-col {
+=09display: block;
+=09width: 100% !important;
+border: none !important;
+}
+=2Elogo-is {
+=09width: 100px !important;
+}
+=2ECTA {
+=09width: 130px !important;
+=09padding: 2px 0px 10px 0px;
+}
+=2Eproduct-1 {
+=09width: 100% !important;
+=09height: auto;
+=09text-align: center !important;
+=09align-content: center;
+}
+=2EPara {
+=09font-size: 13px !important;
+}
+=2EHead {
+=09font-size: 17px !important;
+}
+=2ES-text {
+=09font-size: 11px !important;
+=09color: #fff;
+}
+=2ESocial {
+=09width: 30px !important;
+=09height: auto !important;
+}
+=09.cta{
+=09=09=09width: 190px !important;
+=09=09}
+=09}
+=09@media (max-width:320px) {
+=2EContainer {
+=09width: 99% !important;
+}
+=09.Force-col {
+=09display: block;
+=09width: 100% !important;
+border: none !important;
+}
+=2Elogo-is {
+=09width: 100px !important;
+}
+=2ECTA {
+=09width: 130px !important;
+=09padding: 2px 0px 10px 0px;
+}
+=2Eproduct-1 {
+=09width: 100% !important;
+=09height: auto;
+=09text-align: center !important;
+=09align-content: center;
+}
+=2EPara {
+=09font-size: 13px !important;
+}
+=2EHead {
+=09font-size: 17px !important;
+}
+=2ES-text {
+=09font-size: 11px !important;
+=09color: #fff;
+}
+=2ESocial {
+=09width: 30px !important;
+=09height: auto !important;
+}
+=09=09.cta{
+=09=09=09width: 180px !important;
+=09=09}
+=09=09.tab-img{width:80px !important;}
+}
+</style>
+</head>
+<body style=3D"-webkit-text-size-adjust: none; -ms-text-size-adjust: none; =
+margin: 0; padding: 0;" bgcolor=3D"#ffffff" class=3D"">
+<table style=3D"border-collapse: collapse; border-spacing: 0px; width: 100%=
+;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td>
+<table class=3D"Container" style=3D"width: 600px;" cellspacing=3D"0" cellpa=
+dding=3D"0" border=3D"0" bgcolor=3D"ffffff" align=3D"center"><!--fixed gap-=
+->
+<tbody>
+<tr>
+<td style=3D"font-size: 0px; color: #ffffff;">Your first stop for exclusive=
+ deals, offers, new products &amp; travel inspiration. Don't miss out, chec=
+k your inbox for weekly content.</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Container" style=3D"border-collapse: collapse; border-spaci=
+ng: 0px; width: 600px;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" al=
+ign=3D"center">
+<tbody>
+<tr>
+<td colspan=3D"2" style=3D"font-size: 10px; text-align: center; color: #888=
+; font-family: Open Sans, sans-serif; padding-top: 5px; padding-bottom: 5px=
+;">If you have trouble reading this message, <a href=3D"http://t.hello.isan=
+go.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07d2&p1=3D25122018" title=3D"Web-Versi=
+on" target=3D"_blank" style=3D"font-weight: bold; color: #888;" >view in we=
+b</a></td>
+</tr>
+<tr>
+<td data-nl-format=3D"datetime" align=3D"left"><a href=3D"www.hop-on-hop-of=
+f-bus.com=3Futm_source=3DWelcome&amp;utm_medium=3Demail&amp;utm_campaign=3D=
+25122018_welcome_hop-on-hop-off-bus" style=3D"text-decoration:none;"><img c=
+lass=3D"Logo" src=3D"https://cdn2.isangocdn.com/NinjaResources/images/logos=
+/F7FEEE76-7B67-4886-90AB-07488CB7A167.png" alt=3D"Site Logo" border=3D"0" h=
+eight=3D"55" style=3D"height:55px;display:block;border:0;"/></a></td>
+
+<td data-nl-format=3D"datetime" align=3D"right"><a href=3D"http://t.hello.i=
+sango.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07d4&p1=3D25122018" title=3D"Homepa=
+ge" target=3D"_blank" ><img src=3D"http://www.isango.com/newsletters/2016/N=
+ewsletter/Fixed/powBy.png" alt=3D"isango-Logo" class=3D"logo-is" title=3D"H=
+omepage" style=3D"margin: 10px;" width=3D"90" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td>
+<table class=3D"Container" style=3D"border-collapse: collapse; border-spaci=
+ng: 0px; width: 600px;" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" al=
+ign=3D"center">
+<tbody>
+<tr>
+<td><!--Hero-->
+<table style=3D"margin-top: 5px;" width=3D"100%" cellspacing=3D"0" cellpadd=
+ing=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"2" style=3D"padding-top: 5px;" align=3D"center"><a href=3D"w=
+ww.hop-on-hop-off-bus.com=3Futm_source=3DWelcome&amp;utm_medium=3Demail&amp=
+;utm_campaign=3D25122018_herobanner" title=3D"Homepage" target=3D"_blank" s=
+tyle=3D"display: inline-block;"><img src=3D"http://www.isango.com/newslette=
+rs/2017/CRM/Welcome/2018/EN/hero-ninja.jpg" alt=3D"Hero Image" class=3D"pro=
+duct-1" width=3D"600" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+<!--Hero--> <!--Intro-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0" bgco=
+lor=3D"#fff">
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"text-align: center; font-size: 14px; font-weigh=
+t: normal; font-family: Open Sans, sans-serif; line-height: 150%; color: #6=
+66; padding: 12px;">Thanks for registering with us on . We have created an =
+account for you to keep all your bookings in one place. You will now receiv=
+e the latest tailored offers, inspiring articles and travel tips delivered =
+straight to your inbox.</td>
+</tr>
+</tbody>
+</table>
+<!--Intro--> <!--A1-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td><hr style=3D"color: #f6f6f6; opacity: 0.50;" />
+<table style=3D"text-align: center; color: #666; font-family: Open Sans, sa=
+ns-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cellpa=
+dding=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"Head" style=3D"text-transform: uppercase; font-weight: bold;">=
+A LITTLE BIT ABOUT US</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0">
+<tbody>
+<tr>
+<td class=3D"Para" style=3D"font-size: 14px; text-align: center; color: #66=
+6666; font-family: Open Sans, sans-serif; padding-bottom: 10px;" valign=3D"=
+middle">By choosing to sign up with us, you have become part of the ultimat=
+e travel clan. Powered by our parent company isango!, we pride ourselves on=
+ offering the best tours and experiences around the world. Across our host =
+of leisure brands, we cover more than 300 destinations and make for happy t=
+ravellers the world over. So whether you=E2=80=99re booking with our local =
+activity or destination sites or with isango! itself, we know you=E2=80=99l=
+l be impressed.</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A1--> <!--A2-->
+<table width=3D"100%" cellspacing=3D"0" cellpadding=3D"0" border=3D"0"><!--=
+Category-->
+<tbody>
+<tr>
+<td>
+<table style=3D"text-align: center; color: #666; font-family: Open Sans, sa=
+ns-serif; width: 100%; margin: 10px 0px 10px 0px;" cellspacing=3D"0" cellpa=
+dding=3D"0" border=3D"0"><!--Heading-->
+<tbody>
+<tr>
+<td class=3D"Head" style=3D"text-transform: uppercase; font-weight: bold;">=
+<hr style=3D"color: #f6f6f6; opacity: 0.50;" />JUST ONE MORE THING...</td>
+</tr>
+<tr>
+<td colspan=3D"2" style=3D"padding-top: 5px;"><a href=3D"http://t.hello.isa=
+ngo.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07d5&p1=3D25122018" title=3D"Homepage=
+" target=3D"_blank" style=3D"display: iWelcomeine-block;" ><img src=3D"http=
+://www.isango.com/newsletters/2017/CRM/Welcome/2018/EN/gb.jpg" alt=3D"guide=
+book" class=3D"product-1" width=3D"600" height=3D"auto" /></a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Height" style=3D"width: 100%;" cellspacing=3D"0" cellpaddin=
+g=3D"0" border=3D"0"><!--Description Text-->
+<tbody>
+<tr>
+<td colspan=3D"2" style=3D"text-align: center; font-size: 15px; color: #696=
+969; font-family: Open Sans, sans-serif; line-height: 130%;">
+<p>Have you heard about our epic travel magazine yet=3F Born from our devot=
+ion to all things travel, and our desire to share the wanderlust love aroun=
+d, we bring you <a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh1e9aba9,1fd=
+07d0,1fd07d6&p1=3D25122018" title=3D"Homepage" target=3D"_blank" style=3D"f=
+ont-family: playfair display, italics; color: #002961; font-size: 16px; fon=
+t-weight: bold; text-decoration: none;" ><em>The Guidebook</em></a>. Each d=
+ay we're sharing our latest tidbits of locale travel info, destination insp=
+iration, worldly wisdom and so much more, all perfectly packaged in one chi=
+c digital magazine.</p>
+</td>
+</tr>
+<tr>
+<td colspan=3D"2" style=3D"text-align: center; font-size: 15px; color: #696=
+969; font-family: Open Sans, sans-serif; line-height: 130%;" align=3D"cente=
+r"><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07d7&=
+p1=3D25122018" title=3D"Homepage" target=3D"_blank" style=3D"display: inlin=
+e-block;" ><img src=3D"http://www.isango.com/newsletters/2017/CRM/Welcome/2=
+018/EN/discover.jpg" alt=3D"guidebook" class=3D"cta" width=3D"240" height=
+=3D"auto" /></a>
+<p><strong>So, what are you waiting for=3F Your next adventure awaits=E2=80=
+=A6<br /> Happy travels!</strong></p>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<!--A2--></td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Container" style=3D"border-collapse: collapse; border-spaci=
+ng: 0px; width: 600px; margin-top: 5px;" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" align=3D"center"><!--Social Bar Bottom-->
+<tbody>
+<tr>
+<td><hr style=3D"color: #f6f6f6; opacity: 0.50;" />
+<table style=3D"padding: 5px;" width=3D"300" cellspacing=3D"0" cellpadding=
+=3D"0" border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07d8=
+&p1=3D25122018" title=3D"Facebook" target=3D"_blank" ><img src=3D"http://ww=
+w.isango.com/newsletters/2016/Newsletter/Fixed/facebook.png" alt=3D"FB" cla=
+ss=3D"Social" title=3D"Facebook" width=3D"30" height=3D"auto" /></a></td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07d9=
+&p1=3D25122018" title=3D"Twitter" target=3D"_blank" ><img src=3D"http://www=
+.isango.com/newsletters/2016/Newsletter/Fixed/twitter.png" alt=3D"TW" class=
+=3D"Social" title=3D"Twitter" width=3D"30" height=3D"auto" /></a></td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07da=
+&p1=3D25122018" title=3D"Google+" target=3D"_blank" ><img src=3D"http://www=
+.isango.com/newsletters/2016/Newsletter/Fixed/google.png" alt=3D"G+" class=
+=3D"Social" title=3D"Google+" width=3D"30" height=3D"auto" /></a></td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07db=
+&p1=3D25122018" title=3D"Instagram" target=3D"_blank" ><img src=3D"http://w=
+ww.isango.com/newsletters/2016/Newsletter/Fixed/instagram.png" alt=3D"IG" c=
+lass=3D"Social" title=3D"Instagram" width=3D"30" height=3D"auto" /></a></td=
+>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07dc=
+&p1=3D25122018" title=3D"Pinterest" target=3D"_blank" ><img src=3D"http://w=
+ww.isango.com/newsletters/2016/Newsletter/Fixed/pintrest.png" alt=3D"PIN" c=
+lass=3D"Social" title=3D"Pinterest" width=3D"30" height=3D"auto" /></a></td=
+>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07dd=
+&p1=3D25122018" title=3D"Youtube" target=3D"_blank" ><img src=3D"http://www=
+.isango.com/newsletters/2016/Newsletter/Fixed/youtube.png" alt=3D"YOU" clas=
+s=3D"Social" title=3D"Youtube" width=3D"30" height=3D"auto" /></a></td>
+<td><a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07de=
+&p1=3D25122018" title=3D"Youtube" target=3D"_blank" ><img src=3D"http://www=
+.isango.com/newsletters/2016/Newsletter/Fixed/bloglovin.png" alt=3D"BLOGLOV=
+IN" class=3D"Social" title=3D"Bloglovin" width=3D"30" height=3D"auto" /></a=
+></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table class=3D"Container" style=3D"border-collapse: collapse; border-spaci=
+ng: 0px; width: 600px; margin-top: 5px;" cellspacing=3D"0" cellpadding=3D"0=
+" border=3D"0" align=3D"center">
+<tbody>
+<tr>
+<td>
+<table style=3D"padding: 5px 0px 0px 0px; border-collapse: collapse; width:=
+ 100%; text-align: center;" bgcolor=3D"#f9f9f9" align=3D"center"><!--footer=
+-->
+<tbody>
+<tr>
+<td>
+<table class=3D"Footer" style=3D"width: 600px; text-align: center; padding:=
+ 5px;" bgcolor=3D"#f9f9f9" align=3D"center">
+<tbody>
+<tr>
+<td colspan=3D"3" style=3D"text-align: left; font-size: 14px; padding: 5px =
+0px 0px 0px; font-family: Open Sans, sans-serif; color: #434a54;" align=3D"=
+left"><img src=3D"http://www.isango.com/newsletters/2016/Newsletter/Fixed/C=
+all.png" alt=3D"Call-icon" style=3D"vertical-align: bottom;" title=3D"Call-=
+icon" width=3D"15" height=3D"15" />=C2=A0Contact: <a href=3D"mailto:support=
+@isango.com" title=3D"Support" target=3D"_blank" style=3D"color: #25609e; t=
+ext-decoration: none;"><strong>support@isango.com</strong></a> | <a href=3D=
+"tel:+442033551240" style=3D"color: #25609e; text-decoration: none;"><stron=
+g>+44=C2=A0203=C2=A0355=C2=A01240</strong></a>=C2=A0(INTERNATIONAL)</td>
+</tr>
+<tr>
+<td style=3D"text-align: left; font-size: 11px; padding: 5px 0px 0px 0px; f=
+ont-family: Open Sans, sans-serif; color: #434a54;" valign=3D"top" align=3D=
+"left"><a href=3D"tel:+01244148173" style=3D"color: #25609e; text-decoratio=
+n: none;"><strong>0124=C2=A04148173</strong></a>=C2=A0(IND) |<br /><a href=
+=3D"tel:+18666829791" style=3D"color: #25609e; text-decoration: none;"><str=
+ong>1-866 682 9791</strong></a> (CANADA) |<br /><a href=3D"tel:+00348711800=
+05" style=3D"color: #25609e; text-decoration: none;"><strong>0034 871 180 0=
+05</strong></a>=C2=A0(SPAIN)</td>
+<td style=3D"text-align: left; font-size: 11px; padding: 5px 0px 0px 0px; f=
+ont-family: Open Sans, sans-serif; color: #434a54;" valign=3D"top" align=3D=
+"left"><a href=3D"tel:+18666637017" style=3D"color: #25609e; text-decoratio=
+n: none;"><strong>1-866=C2=A0663=C2=A07017</strong></a>=C2=A0(USA) |<br /><=
+a href=3D"tel:+08966679194" style=3D"color: #25609e; text-decoration: none;=
+"><strong>089 6667 9194 </strong></a>(GERMANY) |</td>
+<td style=3D"text-align: left; font-size: 11px; padding: 5px 0px 0px 0px; f=
+ont-family: Open Sans, sans-serif; color: #434a54;" valign=3D"top" align=3D=
+"left"><a href=3D"tel:+02033551240" style=3D"color: #25609e; text-decoratio=
+n: none;"><strong>0203=C2=A0355=C2=A01240</strong></a>=C2=A0(UK)<br /><a hr=
+ef=3D"tel:+1800008739" style=3D"color: #25609e; text-decoration: none;"><st=
+rong>1-800 008 739</strong></a>=C2=A0(AUSTRALIA)</td>
+</tr>
+<tr>
+<td colspan=3D"3" style=3D"text-align: left; font-size: 10px; padding: 5px =
+0px 0px 0px; font-family: Open Sans, sans-serif; color: #434a54;" align=3D"=
+left"><hr style=3D"color: #f4f4f4;" />*Please note that prices and availabi=
+lity were accurate at the time of publication of this email, but are subjec=
+t to change. To ensure future newsletters are delivered straight to your in=
+box, please add <strong>newsletter@hello.isango.com</strong> to your addres=
+s book.<br /> <font style=3D"font-family: Verdana, Arial; font-size: 10px">=
+<p>
+You are receiving this message because you have been in contact with ISANGO=
+ LIMITED or an affiliate. If you would like to stop receiving messages from=
+ ISANGO LIMITED
+<a href=3D"http://t.hello.isango.com/r/=3Fid=3Dh1e9aba9,1fd07d0,1fd07df&p1=
+=3D%400NXVXFQ2du5itCsUw5ej9KNMkIyGy2iwAW_vGCYEfQQyK-BtzteLnoIuMcTWDznpc5dbv=
+eK-FfxpN70xpuk9mUPmt1A" _label=3D"Opt-out link" _type=3D"optout" >click her=
+e</a>.
+</p>
+</font></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor=3D"#1e1e1e">
+<table class=3D"Footer" style=3D"width: 600px; text-align: center; padding:=
+ 5px;" align=3D"center">
+<tbody>
+<tr>
+<td class=3D"S-text" style=3D"text-align: left; color: #fff; font-size: 10p=
+x; padding: 5px 0px 6px 0px; font-family: Open Sans, sans-serif;" align=3D"=
+left">1st Floor (Central Working), 6-8 Bonhill Street, London, EC2A 4BX.</t=
+d>
+<td class=3D"S-text" style=3D"text-align: right; color: #fff; font-size: 10=
+px; padding: 5px 0px 6px 0px; font-family: Open Sans, sans-serif;" align=3D=
+"right">=C2=A9isango 2016</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<img height=3D'0' width=3D'0' alt=3D'' src=3D'http://t.hello.isango.com/r/=
+=3Fid=3Dh1e9aba9,1fd07d0,1'/></body>
+</html>
+
+------=_NextPart_200_68346A58.68346A58--
+
