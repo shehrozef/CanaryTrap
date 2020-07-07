@@ -38,6 +38,14 @@ Facebook's [TOS](https://developers.facebook.com/docs/apps/delete-data/) require
 - [42 Facebook apps that do not respond to our data deletion requests](data/TOSviolationapps/NoResponse/README.md)
 - [13 Facebook apps that continue sending emails after acknowledging data deletion](data/TOSviolationapps/EmailAfterAck/README.md) 
 
+# Important Updates
+- Disclosed our findings to FTC (22nd June 2020)
+- Disclosed our findings to Facebook (23rd June 2020)
+- Our research covered by **VentureBeat** (1st July 2020) (https://bit.ly/2VQMsL6)
+- Facebook announced that they are tightening data deletion practices and limiting sharing of data with other entities for developers (1st July 2020) (https://bit.ly/2BLS2aL)
+- Our research covered by by **ZDNet** (2nd July 2020) (https://zd.net/3e1PBOs)
+- Developer of app "Tom's Hardware Guide-IT Pro" informed us that they have deactived their app (3rd July 2020)
+
 
 # Frequenty Asked Questions (FAQs)
 
