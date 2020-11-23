@@ -1,4 +1,4 @@
-# CanaryCode
+# CanaryTrap Code
 
 ## Requirements:
 
