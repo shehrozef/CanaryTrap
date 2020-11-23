@@ -156,7 +156,7 @@ tld==0.9.6
 tldextract==2.2.2
 tqdm==4.45.0
 traitlets==4.3.3
-Twisted==17.9.0
+Twisted==20.3.0
 ufw==0.36
 unattended-upgrades==0.1
 urllib3==1.25.6
