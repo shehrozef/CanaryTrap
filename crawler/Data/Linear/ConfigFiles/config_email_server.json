@@ -1,0 +1,7 @@
+{
+  "HOST" : "IP.ADD.OF.HOST",
+  "PASSWORD" : "??",
+  "USERNAME" : "??",
+  "DIR_MAILS" : "/path/to/storing/emails/"
+
+}

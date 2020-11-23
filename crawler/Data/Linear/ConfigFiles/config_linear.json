@@ -1,0 +1,18 @@
+{
+  "FB_USER": "facebook_email_address",
+  "FB_PASS": "facebook_account_pass",
+  "FIREFOX_PROFILE_PATH": "/path/to/default/firefox/profile",
+  "GEKODRIVER_PATH": "/path/to/geckodriver",
+  "EMAIL_DOMAIN": "honeytoken_domain",
+  "EMAIL_RECEIPIENT": "xyz+linearexp@gmail.com",
+
+  "DEPLOYMENT_TYPE": "../Data",
+  "EXPERIMENT_TYPE": "Linear",
+  "APPLICATIONS_FILE": "sample_apps.csv",
+  "URL_START": 1,
+  "URL_END": 500,
+  "HEADLESS": false ,
+  "RESULTS": "results.csv",
+  "PROCESSED_APPS": "processed_apps.csv",
+  "NO_GO": "no_go.csv"
+}
